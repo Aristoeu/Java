@@ -5,3 +5,16 @@ com.thealgorithms.conversions.DecimalToBinary
 com.thealgorithms.datastructures.trees.GenericTree
 com.thealgorithms.datastructures.trees.RedBlackBST
 com.thealgorithms.datastructures.lists.CircleLinkedList
+com.thealgorithms.datastructures.caches.LFUCache
+com.thealgorithms.backtracking.NQueens
+com.thealgorithms.others.CRCAlgorithm
+com.thealgorithms.others.TowerOfHanoi
+com.thealgorithms.others.LowestBasePalindrome
+com.thealgorithms.maths.TrinomialTriangle
+com.thealgorithms.maths.LucasSeries
+com.thealgorithms.dynamicprogramming.BoardPath
+com.thealgorithms.sorts.SwapSort
+
+Java Error:
+com.thealgorithms.backtracking.Permutation.permutation
+com.thealgorithms.others.SkylineProblem

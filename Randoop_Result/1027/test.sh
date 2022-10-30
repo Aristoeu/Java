@@ -1,141 +1,5 @@
 #!/bin/bash
 test_classes=(
-com.thealgorithms.misc.TrieNode
-com.thealgorithms.misc.ColorContrastRatio
-com.thealgorithms.misc.InverseOfMatrix
-com.thealgorithms.misc.matrixTranspose
-com.thealgorithms.misc.WordBoggle
-com.thealgorithms.misc.Sparcity
-com.thealgorithms.misc.Trie
-com.thealgorithms.misc.MedianOfRunningArray
-com.thealgorithms.misc.ThreeSumProblem
-com.thealgorithms.misc.PalindromeSinglyLinkedList
-com.thealgorithms.misc.PalindromePrime
-com.thealgorithms.misc.Sort012D
-com.thealgorithms.misc.RangeInSortedArray
-com.thealgorithms.misc.TwoSumProblem
-com.thealgorithms.searches.UnionFind
-com.thealgorithms.searches.HowManyTimesRotated
-com.thealgorithms.searches.InterpolationSearch
-com.thealgorithms.searches.QuickSelect
-com.thealgorithms.searches.RowColumnWiseSorted2dArrayBinarySearch
-com.thealgorithms.searches.DepthFirstSearch
-com.thealgorithms.searches.RabinKarpAlgorithm
-com.thealgorithms.searches.LinearSearch
-com.thealgorithms.searches.JumpSearch
-com.thealgorithms.searches.BreadthFirstSearch
-com.thealgorithms.searches.IterativeTernarySearch
-com.thealgorithms.searches.PerfectBinarySearch
-com.thealgorithms.searches.TernarySearch
-com.thealgorithms.searches.UpperBound
-com.thealgorithms.searches.SquareRootBinarySearch
-com.thealgorithms.searches.FibonacciSearch
-com.thealgorithms.searches.Searcher
-com.thealgorithms.searches.LowerBound
-com.thealgorithms.searches.BinarySearch
-com.thealgorithms.searches.MonteCarloTreeSearch
-com.thealgorithms.searches.IterativeBinarySearch
-com.thealgorithms.searches.SaddlebackSearch
-com.thealgorithms.searches.ExponentialSearch
-com.thealgorithms.searches.LinearSearchThread
-com.thealgorithms.searches.KMPSearch
-com.thealgorithms.searches.BinarySearch2dArray
-com.thealgorithms.matrixexponentiation.Fibonacci
-com.thealgorithms.strings.ReverseString
-com.thealgorithms.strings.Solution
-com.thealgorithms.strings.CharactersSame
-com.thealgorithms.strings.CheckVowels
-com.thealgorithms.strings.Upper
-com.thealgorithms.strings.Palindrome
-com.thealgorithms.strings.WordLadder
-com.thealgorithms.strings.longestNonRepeativeSubstring
-com.thealgorithms.strings.HorspoolSearch
-com.thealgorithms.strings.Alphabetical
-com.thealgorithms.strings.HammingDistance
-com.thealgorithms.strings.zigZagPattern.zigZagPattern
-com.thealgorithms.strings.Rotation
-com.thealgorithms.strings.List_all_Possible_Words_From_Phone_Digits
-com.thealgorithms.strings.Lower
-com.thealgorithms.strings.Isomorphic
-com.thealgorithms.strings.Anagrams
-com.thealgorithms.strings.Pangram
-com.thealgorithms.strings.PermuteString
-com.thealgorithms.strings.LongestPalindromicSubstring
-com.thealgorithms.strings.CheckAnagrams
-com.thealgorithms.scheduling.FCFSScheduling
-com.thealgorithms.conversions.RomanToInteger
-com.thealgorithms.conversions.HexaDecimalToBinary
-com.thealgorithms.conversions.DecimalToAnyBase
-com.thealgorithms.conversions.AnyBaseToAnyBase
-com.thealgorithms.conversions.DecimalToHexaDecimal
-com.thealgorithms.conversions.IntegerToRoman
-com.thealgorithms.conversions.BinaryToOctal
-com.thealgorithms.conversions.OctalToHexadecimal
-com.thealgorithms.conversions.OctalToDecimal
-com.thealgorithms.conversions.HexaDecimalToDecimal
-com.thealgorithms.conversions.BinaryToHexadecimal
-com.thealgorithms.conversions.AnyBaseToDecimal
-com.thealgorithms.conversions.TurkishToLatinConversion
-com.thealgorithms.conversions.HexToOct
-com.thealgorithms.conversions.DecimalToBinary
-com.thealgorithms.conversions.RgbHsvConversion
-com.thealgorithms.conversions.DecimalToOctal
-com.thealgorithms.conversions.BinaryToDecimal
-com.thealgorithms.conversions.AnytoAny
-com.thealgorithms.datastructures.buffers.CircularBuffer
-com.thealgorithms.datastructures.stacks.NodeStack
-com.thealgorithms.datastructures.stacks.StackOfLinkedList
-com.thealgorithms.datastructures.stacks.MaximumMinimumWindow
-com.thealgorithms.datastructures.stacks.DecimalToAnyUsingStack
-com.thealgorithms.datastructures.stacks.StackArray
-com.thealgorithms.datastructures.stacks.NextGraterElement
-com.thealgorithms.datastructures.stacks.NextSmallerElement
-com.thealgorithms.datastructures.stacks.CalculateMaxOfMin
-com.thealgorithms.datastructures.stacks.LinkedListStack
-com.thealgorithms.datastructures.stacks.DuplicateBrackets
-com.thealgorithms.datastructures.stacks.StackArrayList
-com.thealgorithms.datastructures.stacks.BalancedBrackets
-com.thealgorithms.datastructures.stacks.ReverseStack
-com.thealgorithms.datastructures.stacks.LargestRectangle
-com.thealgorithms.datastructures.stacks.PostfixToInfix
-com.thealgorithms.datastructures.stacks.Node
-com.thealgorithms.datastructures.stacks.InfixToPostfix
-com.thealgorithms.datastructures.trees.LCA
-com.thealgorithms.datastructures.trees.VerticalOrderTraversal
-com.thealgorithms.datastructures.trees.BSTIterative
-com.thealgorithms.datastructures.trees.LevelOrderTraversalQueue
-com.thealgorithms.datastructures.trees.TrieImp
-com.thealgorithms.datastructures.trees.CreateBinaryTreeFromInorderPreorder
-com.thealgorithms.datastructures.trees.QItem
-com.thealgorithms.datastructures.trees.GenericTree
-com.thealgorithms.datastructures.trees.FenwickTree
-com.thealgorithms.datastructures.trees.NRKTree
-com.thealgorithms.datastructures.trees.CeilInBinarySearchTree
-com.thealgorithms.datastructures.trees.AVLSimple
-com.thealgorithms.datastructures.trees.BSTRecursiveGeneric
-com.thealgorithms.datastructures.trees.CheckIfBinaryTreeBalanced
-com.thealgorithms.datastructures.trees.PrintTopViewofTree
-com.thealgorithms.datastructures.trees.RedBlackBST
-com.thealgorithms.datastructures.trees.TreeTraversal
-com.thealgorithms.datastructures.trees.LevelOrderTraversal
-com.thealgorithms.datastructures.trees.ValidBSTOrNot
-com.thealgorithms.datastructures.trees.SegmentTree
-com.thealgorithms.datastructures.trees.KDTree
-com.thealgorithms.datastructures.trees.BSTRecursive
-com.thealgorithms.datastructures.trees.Tree
-com.thealgorithms.datastructures.trees.TreeRandomNode
-com.thealgorithms.datastructures.trees.TreeNode
-com.thealgorithms.datastructures.trees.Main
-com.thealgorithms.datastructures.trees.LazySegmentTree
-com.thealgorithms.datastructures.trees.Node
-com.thealgorithms.datastructures.trees.CreateBSTFromSortedArray
-com.thealgorithms.datastructures.trees.BinaryTree
-com.thealgorithms.datastructures.trees.AVLTree
-com.thealgorithms.datastructures.lists.MergeSortedArrayList
-com.thealgorithms.datastructures.lists.Merge_K_SortedLinkedlist
-com.thealgorithms.datastructures.lists.SkipList
-com.thealgorithms.datastructures.lists.RandomNode
-com.thealgorithms.datastructures.lists.CircleLinkedList
 com.thealgorithms.datastructures.lists.MergeSortedSinglyLinkedList
 com.thealgorithms.datastructures.lists.Link
 com.thealgorithms.datastructures.lists.CountSinglyLinkedListRecursion
@@ -475,17 +339,24 @@ com.thealgorithms.sorts.MergeSort
 com.thealgorithms.sorts.BinaryInsertionSort
 )
 
-total_time=0
+total_time=18115
+#total_time=0
 
 for class in ${test_classes[@]}
 do
   tmp=(${class//./ })
   echo "Begin generate tests for $class"
   START_TIME=$(date +%s)
+  echo "Begin generate tests for $class, start time: $START_TIME" >> output.txt
   java -classpath /Users/yang/GitHub/TheAlgorithms/target/classes:/Users/yang/Library/CloudStorage/OneDrive-TheUniversityofTexasatAustin/22Fall/Software_Testing_in_the_Era_of_Nondeterminism/Project/Randoop/randoop-4.3.1/randoop-all-4.3.1.jar randoop.main.Main gentests --testclass=$class --junit-package-name ${tmp[3]}
   END_TIME=$(date +%s)
+  echo "$class end time: $END_TIME"
+  echo "$class end time: $END_TIME" >> output.txt
   EXECUTING_TIME=`expr $END_TIME - $START_TIME`
   echo "$class runtime: $EXECUTING_TIME (seconds)"
+  echo "$class runtime: $EXECUTING_TIME (seconds)" >> output.txt
   total_time=$((${total_time} + $EXECUTING_TIME))
   echo "total time: $total_time"
+  echo "total time: $total_time" >> output.txt
+  echo "" >> output.txt
 done

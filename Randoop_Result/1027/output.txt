@@ -1,0 +1,1685 @@
+Begin generate tests for com.thealgorithms.datastructures.lists.MergeSortedSinglyLinkedList, start time: 1667064516
+com.thealgorithms.datastructures.lists.MergeSortedSinglyLinkedList end time: 1667064631
+com.thealgorithms.datastructures.lists.MergeSortedSinglyLinkedList runtime: 115 (seconds)
+total time: 18230
+
+Begin generate tests for com.thealgorithms.datastructures.lists.Link, start time: 1667064631
+com.thealgorithms.datastructures.lists.Link end time: 1667064631
+com.thealgorithms.datastructures.lists.Link runtime: 0 (seconds)
+total time: 18230
+
+Begin generate tests for com.thealgorithms.datastructures.lists.CountSinglyLinkedListRecursion, start time: 1667064631
+com.thealgorithms.datastructures.lists.CountSinglyLinkedListRecursion end time: 1667064739
+com.thealgorithms.datastructures.lists.CountSinglyLinkedListRecursion runtime: 108 (seconds)
+total time: 18338
+
+Begin generate tests for com.thealgorithms.datastructures.lists.SinglyLinkedList, start time: 1667064739
+com.thealgorithms.datastructures.lists.SinglyLinkedList end time: 1667064848
+com.thealgorithms.datastructures.lists.SinglyLinkedList runtime: 109 (seconds)
+total time: 18447
+
+Begin generate tests for com.thealgorithms.datastructures.lists.CreateAndDetectLoop, start time: 1667064848
+com.thealgorithms.datastructures.lists.CreateAndDetectLoop end time: 1667064949
+com.thealgorithms.datastructures.lists.CreateAndDetectLoop runtime: 101 (seconds)
+total time: 18548
+
+Begin generate tests for com.thealgorithms.datastructures.lists.DoublyLinkedList, start time: 1667064949
+com.thealgorithms.datastructures.lists.DoublyLinkedList end time: 1667065059
+com.thealgorithms.datastructures.lists.DoublyLinkedList runtime: 110 (seconds)
+total time: 18658
+
+Begin generate tests for com.thealgorithms.datastructures.lists.LinkOperations, start time: 1667065059
+com.thealgorithms.datastructures.lists.LinkOperations end time: 1667065059
+com.thealgorithms.datastructures.lists.LinkOperations runtime: 0 (seconds)
+total time: 18658
+
+Begin generate tests for com.thealgorithms.datastructures.lists.SearchSinglyLinkedListRecursion, start time: 1667065059
+com.thealgorithms.datastructures.lists.SearchSinglyLinkedListRecursion end time: 1667065167
+com.thealgorithms.datastructures.lists.SearchSinglyLinkedListRecursion runtime: 108 (seconds)
+total time: 18766
+
+Begin generate tests for com.thealgorithms.datastructures.lists.Node, start time: 1667065167
+com.thealgorithms.datastructures.lists.Node end time: 1667065167
+com.thealgorithms.datastructures.lists.Node runtime: 0 (seconds)
+total time: 18766
+
+Begin generate tests for com.thealgorithms.datastructures.lists.CursorLinkedList, start time: 1667065167
+com.thealgorithms.datastructures.lists.CursorLinkedList end time: 1667065275
+com.thealgorithms.datastructures.lists.CursorLinkedList runtime: 108 (seconds)
+total time: 18874
+
+Begin generate tests for com.thealgorithms.datastructures.hashmap.hashing.GenericHashMapUsingArrayList, start time: 1667065275
+com.thealgorithms.datastructures.hashmap.hashing.GenericHashMapUsingArrayList end time: 1667065385
+com.thealgorithms.datastructures.hashmap.hashing.GenericHashMapUsingArrayList runtime: 110 (seconds)
+total time: 18984
+
+Begin generate tests for com.thealgorithms.datastructures.hashmap.hashing.HashMap, start time: 1667065385
+com.thealgorithms.datastructures.hashmap.hashing.HashMap end time: 1667065497
+com.thealgorithms.datastructures.hashmap.hashing.HashMap runtime: 112 (seconds)
+total time: 19096
+
+Begin generate tests for com.thealgorithms.datastructures.hashmap.hashing.HashMapCuckooHashing, start time: 1667065497
+com.thealgorithms.datastructures.hashmap.hashing.HashMapCuckooHashing end time: 1667065607
+com.thealgorithms.datastructures.hashmap.hashing.HashMapCuckooHashing runtime: 110 (seconds)
+total time: 19206
+
+Begin generate tests for com.thealgorithms.datastructures.hashmap.hashing.MainLinearProbing, start time: 1667065607
+com.thealgorithms.datastructures.hashmap.hashing.MainLinearProbing end time: 1667065707
+com.thealgorithms.datastructures.hashmap.hashing.MainLinearProbing runtime: 100 (seconds)
+total time: 19306
+
+Begin generate tests for com.thealgorithms.datastructures.hashmap.hashing.GenericHashMapUsingArray, start time: 1667065707
+com.thealgorithms.datastructures.hashmap.hashing.GenericHashMapUsingArray end time: 1667065708
+com.thealgorithms.datastructures.hashmap.hashing.GenericHashMapUsingArray runtime: 1 (seconds)
+total time: 19307
+
+Begin generate tests for com.thealgorithms.datastructures.hashmap.hashing.Intersection, start time: 1667065709
+com.thealgorithms.datastructures.hashmap.hashing.Intersection end time: 1667065833
+com.thealgorithms.datastructures.hashmap.hashing.Intersection runtime: 124 (seconds)
+total time: 19431
+
+Begin generate tests for com.thealgorithms.datastructures.hashmap.hashing.Main, start time: 1667065833
+com.thealgorithms.datastructures.hashmap.hashing.Main end time: 1667065933
+com.thealgorithms.datastructures.hashmap.hashing.Main runtime: 100 (seconds)
+total time: 19531
+
+Begin generate tests for com.thealgorithms.datastructures.hashmap.hashing.MainCuckooHashing, start time: 1667065933
+com.thealgorithms.datastructures.hashmap.hashing.MainCuckooHashing end time: 1667066034
+com.thealgorithms.datastructures.hashmap.hashing.MainCuckooHashing runtime: 101 (seconds)
+total time: 19632
+
+Begin generate tests for com.thealgorithms.datastructures.hashmap.hashing.HashMapLinearProbing, start time: 1667066034
+com.thealgorithms.datastructures.hashmap.hashing.HashMapLinearProbing end time: 1667066142
+com.thealgorithms.datastructures.hashmap.hashing.HashMapLinearProbing runtime: 108 (seconds)
+total time: 19740
+
+Begin generate tests for com.thealgorithms.datastructures.dynamicarray.DynamicArray, start time: 1667066142
+com.thealgorithms.datastructures.dynamicarray.DynamicArray end time: 1667066252
+com.thealgorithms.datastructures.dynamicarray.DynamicArray runtime: 110 (seconds)
+total time: 19850
+
+Begin generate tests for com.thealgorithms.datastructures.disjointsets.DisjointSets, start time: 1667066252
+com.thealgorithms.datastructures.disjointsets.DisjointSets end time: 1667066371
+com.thealgorithms.datastructures.disjointsets.DisjointSets runtime: 119 (seconds)
+total time: 19969
+
+Begin generate tests for com.thealgorithms.datastructures.disjointsets.Node, start time: 1667066371
+com.thealgorithms.datastructures.disjointsets.Node end time: 1667066485
+com.thealgorithms.datastructures.disjointsets.Node runtime: 114 (seconds)
+total time: 20083
+
+Begin generate tests for com.thealgorithms.datastructures.queues.CircularQueue, start time: 1667066485
+com.thealgorithms.datastructures.queues.CircularQueue end time: 1667066593
+com.thealgorithms.datastructures.queues.CircularQueue runtime: 108 (seconds)
+total time: 20191
+
+Begin generate tests for com.thealgorithms.datastructures.queues.GenericArrayListQueue, start time: 1667066593
+com.thealgorithms.datastructures.queues.GenericArrayListQueue end time: 1667066706
+com.thealgorithms.datastructures.queues.GenericArrayListQueue runtime: 113 (seconds)
+total time: 20304
+
+Begin generate tests for com.thealgorithms.datastructures.queues.PriorityQueues, start time: 1667066706
+com.thealgorithms.datastructures.queues.PriorityQueues end time: 1667066806
+com.thealgorithms.datastructures.queues.PriorityQueues runtime: 100 (seconds)
+total time: 20404
+
+Begin generate tests for com.thealgorithms.datastructures.queues.Queues, start time: 1667066806
+com.thealgorithms.datastructures.queues.Queues end time: 1667066907
+com.thealgorithms.datastructures.queues.Queues runtime: 101 (seconds)
+total time: 20505
+
+Begin generate tests for com.thealgorithms.datastructures.queues.Deques, start time: 1667066907
+com.thealgorithms.datastructures.queues.Deques end time: 1667067017
+com.thealgorithms.datastructures.queues.Deques runtime: 110 (seconds)
+total time: 20615
+
+Begin generate tests for com.thealgorithms.datastructures.queues.Queue, start time: 1667067017
+com.thealgorithms.datastructures.queues.Queue end time: 1667067018
+com.thealgorithms.datastructures.queues.Queue runtime: 1 (seconds)
+total time: 20616
+
+Begin generate tests for com.thealgorithms.datastructures.queues.PriorityQueue, start time: 1667067018
+com.thealgorithms.datastructures.queues.PriorityQueue end time: 1667067018
+com.thealgorithms.datastructures.queues.PriorityQueue runtime: 0 (seconds)
+total time: 20616
+
+Begin generate tests for com.thealgorithms.datastructures.queues.LinkedQueue, start time: 1667067018
+com.thealgorithms.datastructures.queues.LinkedQueue end time: 1667067129
+com.thealgorithms.datastructures.queues.LinkedQueue runtime: 111 (seconds)
+total time: 20727
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.AdjacencyList, start time: 1667067129
+com.thealgorithms.datastructures.graphs.AdjacencyList end time: 1667067129
+com.thealgorithms.datastructures.graphs.AdjacencyList runtime: 0 (seconds)
+total time: 20727
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.ConnectedComponent, start time: 1667067129
+com.thealgorithms.datastructures.graphs.ConnectedComponent end time: 1667067230
+com.thealgorithms.datastructures.graphs.ConnectedComponent runtime: 101 (seconds)
+total time: 20828
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.AdjacencyListGraph, start time: 1667067230
+com.thealgorithms.datastructures.graphs.AdjacencyListGraph end time: 1667067230
+com.thealgorithms.datastructures.graphs.AdjacencyListGraph runtime: 0 (seconds)
+total time: 20828
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.Kruskal, start time: 1667067230
+com.thealgorithms.datastructures.graphs.Kruskal end time: 1667067331
+com.thealgorithms.datastructures.graphs.Kruskal runtime: 101 (seconds)
+total time: 20929
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.Cycles, start time: 1667067331
+com.thealgorithms.datastructures.graphs.Cycles end time: 1667067431
+com.thealgorithms.datastructures.graphs.Cycles runtime: 100 (seconds)
+total time: 21029
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.AdjacencyMatrixGraph, start time: 1667067431
+com.thealgorithms.datastructures.graphs.AdjacencyMatrixGraph end time: 1667067432
+com.thealgorithms.datastructures.graphs.AdjacencyMatrixGraph runtime: 1 (seconds)
+total time: 21030
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.BipartiteGrapfDFS, start time: 1667067432
+com.thealgorithms.datastructures.graphs.BipartiteGrapfDFS end time: 1667067556
+com.thealgorithms.datastructures.graphs.BipartiteGrapfDFS runtime: 124 (seconds)
+total time: 21154
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.BellmanFord, start time: 1667067556
+com.thealgorithms.datastructures.graphs.BellmanFord end time: 1667067556
+com.thealgorithms.datastructures.graphs.BellmanFord runtime: 0 (seconds)
+total time: 21154
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.Cycle, start time: 1667067556
+com.thealgorithms.datastructures.graphs.Cycle end time: 1667067556
+com.thealgorithms.datastructures.graphs.Cycle runtime: 0 (seconds)
+total time: 21154
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.FloydWarshall, start time: 1667067556
+com.thealgorithms.datastructures.graphs.FloydWarshall end time: 1667067684
+com.thealgorithms.datastructures.graphs.FloydWarshall runtime: 128 (seconds)
+total time: 21282
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.Graph, start time: 1667067684
+com.thealgorithms.datastructures.graphs.Graph end time: 1667067684
+com.thealgorithms.datastructures.graphs.Graph runtime: 0 (seconds)
+total time: 21282
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.A_Star, start time: 1667067684
+com.thealgorithms.datastructures.graphs.A_Star end time: 1667067785
+com.thealgorithms.datastructures.graphs.A_Star runtime: 101 (seconds)
+total time: 21383
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.PrimMST, start time: 1667067785
+com.thealgorithms.datastructures.graphs.PrimMST end time: 1667067785
+com.thealgorithms.datastructures.graphs.PrimMST runtime: 0 (seconds)
+total time: 21383
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.MatrixGraphs, start time: 1667067785
+com.thealgorithms.datastructures.graphs.MatrixGraphs end time: 1667067885
+com.thealgorithms.datastructures.graphs.MatrixGraphs runtime: 100 (seconds)
+total time: 21483
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.dijkstras, start time: 1667067885
+com.thealgorithms.datastructures.graphs.dijkstras end time: 1667067886
+com.thealgorithms.datastructures.graphs.dijkstras runtime: 1 (seconds)
+total time: 21484
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.Graphs, start time: 1667067886
+com.thealgorithms.datastructures.graphs.Graphs end time: 1667067986
+com.thealgorithms.datastructures.graphs.Graphs runtime: 100 (seconds)
+total time: 21584
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.HamiltonianCycle, start time: 1667067986
+com.thealgorithms.datastructures.graphs.HamiltonianCycle end time: 1667068111
+com.thealgorithms.datastructures.graphs.HamiltonianCycle runtime: 125 (seconds)
+total time: 21709
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.TopologicalSort, start time: 1667068111
+com.thealgorithms.datastructures.graphs.TopologicalSort end time: 1667068111
+com.thealgorithms.datastructures.graphs.TopologicalSort runtime: 0 (seconds)
+total time: 21709
+
+Begin generate tests for com.thealgorithms.datastructures.graphs.KahnsAlgorithm, start time: 1667068112
+com.thealgorithms.datastructures.graphs.KahnsAlgorithm end time: 1667068212
+com.thealgorithms.datastructures.graphs.KahnsAlgorithm runtime: 100 (seconds)
+total time: 21809
+
+Begin generate tests for com.thealgorithms.datastructures.bloomfilter.BloomFilter, start time: 1667068212
+com.thealgorithms.datastructures.bloomfilter.BloomFilter end time: 1667068332
+com.thealgorithms.datastructures.bloomfilter.BloomFilter runtime: 120 (seconds)
+total time: 21929
+
+Begin generate tests for com.thealgorithms.datastructures.bags.Bag, start time: 1667068332
+com.thealgorithms.datastructures.bags.Bag end time: 1667068448
+com.thealgorithms.datastructures.bags.Bag runtime: 116 (seconds)
+total time: 22045
+
+Begin generate tests for com.thealgorithms.datastructures.heaps.EmptyHeapException, start time: 1667068448
+com.thealgorithms.datastructures.heaps.EmptyHeapException end time: 1667068573
+com.thealgorithms.datastructures.heaps.EmptyHeapException runtime: 125 (seconds)
+total time: 22170
+
+Begin generate tests for com.thealgorithms.datastructures.heaps.GenericHeap, start time: 1667068573
+com.thealgorithms.datastructures.heaps.GenericHeap end time: 1667068684
+com.thealgorithms.datastructures.heaps.GenericHeap runtime: 111 (seconds)
+total time: 22281
+
+Begin generate tests for com.thealgorithms.datastructures.heaps.HeapElement, start time: 1667068684
+com.thealgorithms.datastructures.heaps.HeapElement end time: 1667068797
+com.thealgorithms.datastructures.heaps.HeapElement runtime: 113 (seconds)
+total time: 22394
+
+Begin generate tests for com.thealgorithms.datastructures.heaps.FibonacciHeap, start time: 1667068797
+com.thealgorithms.datastructures.heaps.FibonacciHeap end time: 1667068910
+com.thealgorithms.datastructures.heaps.FibonacciHeap runtime: 113 (seconds)
+total time: 22507
+
+Begin generate tests for com.thealgorithms.datastructures.heaps.MaxHeap, start time: 1667068910
+com.thealgorithms.datastructures.heaps.MaxHeap end time: 1667069039
+com.thealgorithms.datastructures.heaps.MaxHeap runtime: 129 (seconds)
+total time: 22636
+
+Begin generate tests for com.thealgorithms.datastructures.heaps.MinPriorityQueue, start time: 1667069039
+com.thealgorithms.datastructures.heaps.MinPriorityQueue end time: 1667069139
+com.thealgorithms.datastructures.heaps.MinPriorityQueue runtime: 100 (seconds)
+total time: 22736
+
+Begin generate tests for com.thealgorithms.datastructures.heaps.MinHeap, start time: 1667069139
+com.thealgorithms.datastructures.heaps.MinHeap end time: 1667069267
+com.thealgorithms.datastructures.heaps.MinHeap runtime: 128 (seconds)
+total time: 22864
+
+Begin generate tests for com.thealgorithms.datastructures.heaps.Heap, start time: 1667069267
+com.thealgorithms.datastructures.heaps.Heap end time: 1667069367
+com.thealgorithms.datastructures.heaps.Heap runtime: 100 (seconds)
+total time: 22964
+
+Begin generate tests for com.thealgorithms.datastructures.caches.LRUCache, start time: 1667069367
+com.thealgorithms.datastructures.caches.LRUCache end time: 1667069478
+com.thealgorithms.datastructures.caches.LRUCache runtime: 111 (seconds)
+total time: 23075
+
+Begin generate tests for com.thealgorithms.datastructures.caches.MRUCache, start time: 1667069478
+com.thealgorithms.datastructures.caches.MRUCache end time: 1667069591
+com.thealgorithms.datastructures.caches.MRUCache runtime: 113 (seconds)
+total time: 23188
+
+Begin generate tests for com.thealgorithms.datastructures.caches.LFUCache, start time: 1667069591
+com.thealgorithms.datastructures.caches.LFUCache end time: 1667071755
+com.thealgorithms.datastructures.caches.LFUCache runtime: 2164 (seconds)
+total time: 25352
+
+Begin generate tests for com.thealgorithms.backtracking.NQueens, start time: 1667071755
+com.thealgorithms.backtracking.NQueens end time: 1667072121
+com.thealgorithms.backtracking.NQueens runtime: 366 (seconds)
+total time: 25718
+
+Begin generate tests for com.thealgorithms.backtracking.Permutation, start time: 1667072121
+com.thealgorithms.backtracking.Permutation end time: 1667072242
+com.thealgorithms.backtracking.Permutation runtime: 121 (seconds)
+total time: 25839
+
+Begin generate tests for com.thealgorithms.backtracking.PowerSum, start time: 1667072242
+com.thealgorithms.backtracking.PowerSum end time: 1667072410
+com.thealgorithms.backtracking.PowerSum runtime: 168 (seconds)
+total time: 26007
+
+Begin generate tests for com.thealgorithms.backtracking.MazeRecursion, start time: 1667072410
+com.thealgorithms.backtracking.MazeRecursion end time: 1667072531
+com.thealgorithms.backtracking.MazeRecursion runtime: 121 (seconds)
+total time: 26128
+
+Begin generate tests for com.thealgorithms.backtracking.Combination, start time: 1667072531
+com.thealgorithms.backtracking.Combination end time: 1667072651
+com.thealgorithms.backtracking.Combination runtime: 120 (seconds)
+total time: 26248
+
+Begin generate tests for com.thealgorithms.backtracking.FloodFill, start time: 1667072651
+com.thealgorithms.backtracking.FloodFill end time: 1667072771
+com.thealgorithms.backtracking.FloodFill runtime: 120 (seconds)
+total time: 26368
+
+Begin generate tests for com.thealgorithms.backtracking.KnightsTour, start time: 1667072771
+com.thealgorithms.backtracking.KnightsTour end time: 1667072871
+com.thealgorithms.backtracking.KnightsTour runtime: 100 (seconds)
+total time: 26468
+
+Begin generate tests for com.thealgorithms.others.KochSnowflake, start time: 1667072871
+com.thealgorithms.others.KochSnowflake end time: 1667072983
+com.thealgorithms.others.KochSnowflake runtime: 112 (seconds)
+total time: 26580
+
+Begin generate tests for com.thealgorithms.others.BrianKernighanAlgorithm, start time: 1667072983
+com.thealgorithms.others.BrianKernighanAlgorithm end time: 1667073084
+com.thealgorithms.others.BrianKernighanAlgorithm runtime: 101 (seconds)
+total time: 26681
+
+Begin generate tests for com.thealgorithms.others.SkylineProblem, start time: 1667073084
+com.thealgorithms.others.SkylineProblem end time: 1667075609
+com.thealgorithms.others.SkylineProblem runtime: 2525 (seconds)
+total time: 29206
+
+Begin generate tests for com.thealgorithms.others.CRCAlgorithm, start time: 1667075609
+com.thealgorithms.others.CRCAlgorithm end time: 1667076240
+com.thealgorithms.others.CRCAlgorithm runtime: 631 (seconds)
+total time: 29837
+
+Begin generate tests for com.thealgorithms.others.NextFit, start time: 1667076240
+com.thealgorithms.others.NextFit end time: 1667076240
+com.thealgorithms.others.NextFit runtime: 0 (seconds)
+total time: 29837
+
+Begin generate tests for com.thealgorithms.others.BoyerMoore, start time: 1667076240
+com.thealgorithms.others.BoyerMoore end time: 1667076357
+com.thealgorithms.others.BoyerMoore runtime: 117 (seconds)
+total time: 29954
+
+Begin generate tests for com.thealgorithms.others.Process, start time: 1667076357
+com.thealgorithms.others.Process end time: 1667076357
+com.thealgorithms.others.Process runtime: 0 (seconds)
+total time: 29954
+
+Begin generate tests for com.thealgorithms.others.RabinKarp, start time: 1667076357
+com.thealgorithms.others.RabinKarp end time: 1667076458
+com.thealgorithms.others.RabinKarp runtime: 101 (seconds)
+total time: 30055
+
+Begin generate tests for com.thealgorithms.others.ReturnSubsequence, start time: 1667076458
+com.thealgorithms.others.ReturnSubsequence end time: 1667076558
+com.thealgorithms.others.ReturnSubsequence runtime: 100 (seconds)
+total time: 30155
+
+Begin generate tests for com.thealgorithms.others.Dijkstra, start time: 1667076558
+com.thealgorithms.others.Dijkstra end time: 1667076659
+com.thealgorithms.others.Dijkstra runtime: 101 (seconds)
+total time: 30256
+
+Begin generate tests for com.thealgorithms.others.EulersFunction, start time: 1667076659
+com.thealgorithms.others.EulersFunction end time: 1667076759
+com.thealgorithms.others.EulersFunction runtime: 100 (seconds)
+total time: 30356
+
+Begin generate tests for com.thealgorithms.others.MiniMaxAlgorithm, start time: 1667076759
+com.thealgorithms.others.MiniMaxAlgorithm end time: 1667076926
+com.thealgorithms.others.MiniMaxAlgorithm runtime: 167 (seconds)
+total time: 30523
+
+Begin generate tests for com.thealgorithms.others.FirstFitCPU, start time: 1667076926
+com.thealgorithms.others.FirstFitCPU end time: 1667076926
+com.thealgorithms.others.FirstFitCPU runtime: 0 (seconds)
+total time: 30523
+
+Begin generate tests for com.thealgorithms.others.ThreeSum, start time: 1667076926
+com.thealgorithms.others.ThreeSum end time: 1667076927
+com.thealgorithms.others.ThreeSum runtime: 1 (seconds)
+total time: 30524
+
+Begin generate tests for com.thealgorithms.others.cn.HammingDistance, start time: 1667076927
+com.thealgorithms.others.cn.HammingDistance end time: 1667077043
+com.thealgorithms.others.cn.HammingDistance runtime: 116 (seconds)
+total time: 30640
+
+Begin generate tests for com.thealgorithms.others.ArrayLeftRotation, start time: 1667077043
+com.thealgorithms.others.ArrayLeftRotation end time: 1667077164
+com.thealgorithms.others.ArrayLeftRotation runtime: 121 (seconds)
+total time: 30761
+
+Begin generate tests for com.thealgorithms.others.Damm, start time: 1667077164
+com.thealgorithms.others.Damm end time: 1667077250
+com.thealgorithms.others.Damm runtime: 86 (seconds)
+total time: 30847
+
+Begin generate tests for com.thealgorithms.others.LinearCongruentialGenerator, start time: 1667077250
+com.thealgorithms.others.LinearCongruentialGenerator end time: 1667077369
+com.thealgorithms.others.LinearCongruentialGenerator runtime: 119 (seconds)
+total time: 30966
+
+Begin generate tests for com.thealgorithms.others.Krishnamurthy, start time: 1667077369
+com.thealgorithms.others.Krishnamurthy end time: 1667077370
+com.thealgorithms.others.Krishnamurthy runtime: 1 (seconds)
+total time: 30967
+
+Begin generate tests for com.thealgorithms.others.Verhoeff, start time: 1667077370
+com.thealgorithms.others.Verhoeff end time: 1667077469
+com.thealgorithms.others.Verhoeff runtime: 99 (seconds)
+total time: 31066
+
+Begin generate tests for com.thealgorithms.others.CountWords, start time: 1667077469
+com.thealgorithms.others.CountWords end time: 1667077570
+com.thealgorithms.others.CountWords runtime: 101 (seconds)
+total time: 31167
+
+Begin generate tests for com.thealgorithms.others.Trieac, start time: 1667077570
+com.thealgorithms.others.Trieac end time: 1667077570
+com.thealgorithms.others.Trieac runtime: 0 (seconds)
+total time: 31167
+
+Begin generate tests for com.thealgorithms.others.Luhn, start time: 1667077570
+com.thealgorithms.others.Luhn end time: 1667077698
+com.thealgorithms.others.Luhn runtime: 128 (seconds)
+total time: 31295
+
+Begin generate tests for com.thealgorithms.others.ReverseStackUsingRecursion, start time: 1667077698
+com.thealgorithms.others.ReverseStackUsingRecursion end time: 1667077798
+com.thealgorithms.others.ReverseStackUsingRecursion runtime: 100 (seconds)
+total time: 31395
+
+Begin generate tests for com.thealgorithms.others.TowerOfHanoi, start time: 1667077798
+com.thealgorithms.others.TowerOfHanoi end time: 1667080040
+com.thealgorithms.others.TowerOfHanoi runtime: 2242 (seconds)
+total time: 33637
+
+Begin generate tests for com.thealgorithms.others.KMP, start time: 1667080040
+com.thealgorithms.others.KMP end time: 1667080141
+com.thealgorithms.others.KMP runtime: 101 (seconds)
+total time: 33738
+
+Begin generate tests for com.thealgorithms.others.FloydTriangle, start time: 1667080141
+com.thealgorithms.others.FloydTriangle end time: 1667080141
+com.thealgorithms.others.FloydTriangle runtime: 0 (seconds)
+total time: 33738
+
+Begin generate tests for com.thealgorithms.others.Schedule, start time: 1667080141
+com.thealgorithms.others.Schedule end time: 1667080141
+com.thealgorithms.others.Schedule runtime: 0 (seconds)
+total time: 33738
+
+Begin generate tests for com.thealgorithms.others.WorstFitCPU, start time: 1667080141
+com.thealgorithms.others.WorstFitCPU end time: 1667080141
+com.thealgorithms.others.WorstFitCPU runtime: 0 (seconds)
+total time: 33738
+
+Begin generate tests for com.thealgorithms.others.BestFitCPU, start time: 1667080141
+com.thealgorithms.others.BestFitCPU end time: 1667080142
+com.thealgorithms.others.BestFitCPU runtime: 1 (seconds)
+total time: 33739
+
+Begin generate tests for com.thealgorithms.others.Huffman, start time: 1667080142
+com.thealgorithms.others.Huffman end time: 1667080242
+com.thealgorithms.others.Huffman runtime: 100 (seconds)
+total time: 33839
+
+Begin generate tests for com.thealgorithms.others.RootPrecision, start time: 1667080242
+com.thealgorithms.others.RootPrecision end time: 1667080343
+com.thealgorithms.others.RootPrecision runtime: 101 (seconds)
+total time: 33940
+
+Begin generate tests for com.thealgorithms.others.Graph, start time: 1667080343
+com.thealgorithms.others.Graph end time: 1667080343
+com.thealgorithms.others.Graph runtime: 0 (seconds)
+total time: 33940
+
+Begin generate tests for com.thealgorithms.others.QueueWithStack, start time: 1667080343
+com.thealgorithms.others.QueueWithStack end time: 1667080344
+com.thealgorithms.others.QueueWithStack runtime: 1 (seconds)
+total time: 33941
+
+Begin generate tests for com.thealgorithms.others.countSetBits, start time: 1667080344
+com.thealgorithms.others.countSetBits end time: 1667080457
+com.thealgorithms.others.countSetBits runtime: 113 (seconds)
+total time: 34054
+
+Begin generate tests for com.thealgorithms.others.StackPostfixNotation, start time: 1667080457
+com.thealgorithms.others.StackPostfixNotation end time: 1667080558
+com.thealgorithms.others.StackPostfixNotation runtime: 101 (seconds)
+total time: 34155
+
+Begin generate tests for com.thealgorithms.others.MyComparator, start time: 1667080558
+com.thealgorithms.others.MyComparator end time: 1667080558
+com.thealgorithms.others.MyComparator runtime: 0 (seconds)
+total time: 34155
+
+Begin generate tests for com.thealgorithms.others.CountChar, start time: 1667080558
+com.thealgorithms.others.CountChar end time: 1667080656
+com.thealgorithms.others.CountChar runtime: 98 (seconds)
+total time: 34253
+
+Begin generate tests for com.thealgorithms.others.PageRank, start time: 1667080656
+com.thealgorithms.others.PageRank end time: 1667080657
+com.thealgorithms.others.PageRank runtime: 1 (seconds)
+total time: 34254
+
+Begin generate tests for com.thealgorithms.others.Rotate_by_90_degree, start time: 1667080657
+com.thealgorithms.others.Rotate_by_90_degree end time: 1667080657
+com.thealgorithms.others.Rotate_by_90_degree runtime: 0 (seconds)
+total time: 34254
+
+Begin generate tests for com.thealgorithms.others.HappyNumbersSeq, start time: 1667080657
+com.thealgorithms.others.HappyNumbersSeq end time: 1667080757
+com.thealgorithms.others.HappyNumbersSeq runtime: 100 (seconds)
+total time: 34354
+
+Begin generate tests for com.thealgorithms.others.Sudoku, start time: 1667080757
+com.thealgorithms.others.Sudoku end time: 1667080858
+com.thealgorithms.others.Sudoku runtime: 101 (seconds)
+total time: 34455
+
+Begin generate tests for com.thealgorithms.others.SieveOfEratosthenes, start time: 1667080858
+com.thealgorithms.others.SieveOfEratosthenes end time: 1667080958
+com.thealgorithms.others.SieveOfEratosthenes runtime: 100 (seconds)
+total time: 34555
+
+Begin generate tests for com.thealgorithms.others.Rotate, start time: 1667080958
+com.thealgorithms.others.Rotate end time: 1667080959
+com.thealgorithms.others.Rotate runtime: 1 (seconds)
+total time: 34556
+
+Begin generate tests for com.thealgorithms.others.StringMatchFiniteAutomata, start time: 1667080959
+com.thealgorithms.others.StringMatchFiniteAutomata end time: 1667081076
+com.thealgorithms.others.StringMatchFiniteAutomata runtime: 117 (seconds)
+total time: 34673
+
+Begin generate tests for com.thealgorithms.others.SJF, start time: 1667081076
+com.thealgorithms.others.SJF end time: 1667081176
+com.thealgorithms.others.SJF runtime: 100 (seconds)
+total time: 34773
+
+Begin generate tests for com.thealgorithms.others.RemoveDuplicateFromString, start time: 1667081176
+com.thealgorithms.others.RemoveDuplicateFromString end time: 1667081277
+com.thealgorithms.others.RemoveDuplicateFromString runtime: 101 (seconds)
+total time: 34874
+
+Begin generate tests for com.thealgorithms.others.GuassLegendre, start time: 1667081277
+com.thealgorithms.others.GuassLegendre end time: 1667081378
+com.thealgorithms.others.GuassLegendre runtime: 101 (seconds)
+total time: 34975
+
+Begin generate tests for com.thealgorithms.others.QueueUsingTwoStacks, start time: 1667081378
+com.thealgorithms.others.QueueUsingTwoStacks end time: 1667081478
+com.thealgorithms.others.QueueUsingTwoStacks runtime: 100 (seconds)
+total time: 35075
+
+Begin generate tests for com.thealgorithms.others.TopKWords, start time: 1667081478
+com.thealgorithms.others.TopKWords end time: 1667081579
+com.thealgorithms.others.TopKWords runtime: 101 (seconds)
+total time: 35176
+
+Begin generate tests for com.thealgorithms.others.BFPRT, start time: 1667081579
+com.thealgorithms.others.BFPRT end time: 1667081696
+com.thealgorithms.others.BFPRT runtime: 117 (seconds)
+total time: 35293
+
+Begin generate tests for com.thealgorithms.others.PerlinNoise, start time: 1667081696
+com.thealgorithms.others.PerlinNoise end time: 1667081796
+com.thealgorithms.others.PerlinNoise runtime: 100 (seconds)
+total time: 35393
+
+Begin generate tests for com.thealgorithms.others.CRC32, start time: 1667081796
+com.thealgorithms.others.CRC32 end time: 1667081917
+com.thealgorithms.others.CRC32 runtime: 121 (seconds)
+total time: 35514
+
+Begin generate tests for com.thealgorithms.others.BankersAlgorithm, start time: 1667081917
+com.thealgorithms.others.BankersAlgorithm end time: 1667082018
+com.thealgorithms.others.BankersAlgorithm runtime: 101 (seconds)
+total time: 35615
+
+Begin generate tests for com.thealgorithms.others.InsertDeleteInArray, start time: 1667082018
+com.thealgorithms.others.InsertDeleteInArray end time: 1667082120
+com.thealgorithms.others.InsertDeleteInArray runtime: 102 (seconds)
+total time: 35717
+
+Begin generate tests for com.thealgorithms.others.LowestBasePalindrome, start time: 1667082120
+com.thealgorithms.others.LowestBasePalindrome end time: 1667087502
+com.thealgorithms.others.LowestBasePalindrome runtime: 5382 (seconds)
+total time: 41099
+
+Begin generate tests for com.thealgorithms.others.FibbonaciSeries, start time: 1667087502
+com.thealgorithms.others.FibbonaciSeries end time: 1667087602
+com.thealgorithms.others.FibbonaciSeries runtime: 100 (seconds)
+total time: 41199
+
+Begin generate tests for com.thealgorithms.others.TwoPointers, start time: 1667087602
+com.thealgorithms.others.TwoPointers end time: 1667087603
+com.thealgorithms.others.TwoPointers runtime: 1 (seconds)
+total time: 41200
+
+Begin generate tests for com.thealgorithms.others.Mandelbrot, start time: 1667087603
+com.thealgorithms.others.Mandelbrot end time: 1667087715
+com.thealgorithms.others.Mandelbrot runtime: 112 (seconds)
+total time: 41312
+
+Begin generate tests for com.thealgorithms.others.MemoryManagementAlgorithms, start time: 1667087715
+com.thealgorithms.others.MemoryManagementAlgorithms end time: 1667087816
+com.thealgorithms.others.MemoryManagementAlgorithms runtime: 101 (seconds)
+total time: 41413
+
+Begin generate tests for com.thealgorithms.others.HuffmanNode, start time: 1667087816
+com.thealgorithms.others.HuffmanNode end time: 1667087816
+com.thealgorithms.others.HuffmanNode runtime: 0 (seconds)
+total time: 41413
+
+Begin generate tests for com.thealgorithms.others.PasswordGen, start time: 1667087816
+com.thealgorithms.others.PasswordGen end time: 1667087816
+com.thealgorithms.others.PasswordGen runtime: 0 (seconds)
+total time: 41413
+
+Begin generate tests for com.thealgorithms.minimizinglateness.MinimizingLateness, start time: 1667087816
+com.thealgorithms.minimizinglateness.MinimizingLateness end time: 1667087918
+com.thealgorithms.minimizinglateness.MinimizingLateness runtime: 102 (seconds)
+total time: 41515
+
+Begin generate tests for com.thealgorithms.ciphers.Polybius, start time: 1667087918
+com.thealgorithms.ciphers.Polybius end time: 1667088019
+com.thealgorithms.ciphers.Polybius runtime: 101 (seconds)
+total time: 41616
+
+Begin generate tests for com.thealgorithms.ciphers.AES, start time: 1667088019
+com.thealgorithms.ciphers.AES end time: 1667088129
+com.thealgorithms.ciphers.AES runtime: 110 (seconds)
+total time: 41726
+
+Begin generate tests for com.thealgorithms.ciphers.RSA, start time: 1667088129
+com.thealgorithms.ciphers.RSA end time: 1667088403
+com.thealgorithms.ciphers.RSA runtime: 274 (seconds)
+total time: 42000
+
+Begin generate tests for com.thealgorithms.ciphers.SimpleSubstitutionCipher, start time: 1667088403
+com.thealgorithms.ciphers.SimpleSubstitutionCipher end time: 1667088522
+com.thealgorithms.ciphers.SimpleSubstitutionCipher runtime: 119 (seconds)
+total time: 42119
+
+Begin generate tests for com.thealgorithms.ciphers.Caesar, start time: 1667088522
+com.thealgorithms.ciphers.Caesar end time: 1667088625
+com.thealgorithms.ciphers.Caesar runtime: 103 (seconds)
+total time: 42222
+
+Begin generate tests for com.thealgorithms.ciphers.a5.LFSR, start time: 1667088625
+com.thealgorithms.ciphers.a5.LFSR end time: 1667088740
+com.thealgorithms.ciphers.a5.LFSR runtime: 115 (seconds)
+total time: 42337
+
+Begin generate tests for com.thealgorithms.ciphers.a5.A5Cipher, start time: 1667088740
+com.thealgorithms.ciphers.a5.A5Cipher end time: 1667088840
+com.thealgorithms.ciphers.a5.A5Cipher runtime: 100 (seconds)
+total time: 42437
+
+Begin generate tests for com.thealgorithms.ciphers.a5.CompositeLFSR, start time: 1667088840
+com.thealgorithms.ciphers.a5.CompositeLFSR end time: 1667088941
+com.thealgorithms.ciphers.a5.CompositeLFSR runtime: 101 (seconds)
+total time: 42538
+
+Begin generate tests for com.thealgorithms.ciphers.a5.Utils, start time: 1667088941
+com.thealgorithms.ciphers.a5.Utils end time: 1667089042
+com.thealgorithms.ciphers.a5.Utils runtime: 101 (seconds)
+total time: 42639
+
+Begin generate tests for com.thealgorithms.ciphers.a5.A5KeyStreamGenerator, start time: 1667089042
+com.thealgorithms.ciphers.a5.A5KeyStreamGenerator end time: 1667089145
+com.thealgorithms.ciphers.a5.A5KeyStreamGenerator runtime: 103 (seconds)
+total time: 42742
+
+Begin generate tests for com.thealgorithms.ciphers.a5.BaseLFSR, start time: 1667089145
+com.thealgorithms.ciphers.a5.BaseLFSR end time: 1667089245
+com.thealgorithms.ciphers.a5.BaseLFSR runtime: 100 (seconds)
+total time: 42842
+
+Begin generate tests for com.thealgorithms.ciphers.SimpleSubCipher, start time: 1667089245
+com.thealgorithms.ciphers.SimpleSubCipher end time: 1667089371
+com.thealgorithms.ciphers.SimpleSubCipher runtime: 126 (seconds)
+total time: 42968
+
+Begin generate tests for com.thealgorithms.ciphers.ColumnarTranspositionCipher, start time: 1667089371
+com.thealgorithms.ciphers.ColumnarTranspositionCipher end time: 1667089483
+com.thealgorithms.ciphers.ColumnarTranspositionCipher runtime: 112 (seconds)
+total time: 43080
+
+Begin generate tests for com.thealgorithms.ciphers.AffineCipher, start time: 1667089483
+com.thealgorithms.ciphers.AffineCipher end time: 1667089483
+com.thealgorithms.ciphers.AffineCipher runtime: 0 (seconds)
+total time: 43080
+
+Begin generate tests for com.thealgorithms.ciphers.Blowfish, start time: 1667089483
+com.thealgorithms.ciphers.Blowfish end time: 1667089584
+com.thealgorithms.ciphers.Blowfish runtime: 101 (seconds)
+total time: 43181
+
+Begin generate tests for com.thealgorithms.ciphers.HillCipher, start time: 1667089584
+com.thealgorithms.ciphers.HillCipher end time: 1667089704
+com.thealgorithms.ciphers.HillCipher runtime: 120 (seconds)
+total time: 43301
+
+Begin generate tests for com.thealgorithms.ciphers.Vigenere, start time: 1667089704
+com.thealgorithms.ciphers.Vigenere end time: 1667089806
+com.thealgorithms.ciphers.Vigenere runtime: 102 (seconds)
+total time: 43403
+
+Begin generate tests for com.thealgorithms.ciphers.ProductCipher, start time: 1667089806
+com.thealgorithms.ciphers.ProductCipher end time: 1667089806
+com.thealgorithms.ciphers.ProductCipher runtime: 0 (seconds)
+total time: 43403
+
+Begin generate tests for com.thealgorithms.ciphers.AESEncryption, start time: 1667089806
+com.thealgorithms.ciphers.AESEncryption end time: 1667090275
+com.thealgorithms.ciphers.AESEncryption runtime: 469 (seconds)
+total time: 43872
+
+Begin generate tests for com.thealgorithms.divideandconquer.StrassenMatrixMultiplication, start time: 1667090275
+com.thealgorithms.divideandconquer.StrassenMatrixMultiplication end time: 1667090396
+com.thealgorithms.divideandconquer.StrassenMatrixMultiplication runtime: 121 (seconds)
+total time: 43993
+
+Begin generate tests for com.thealgorithms.divideandconquer.ClosestPair, start time: 1667090396
+com.thealgorithms.divideandconquer.ClosestPair end time: 1667090497
+com.thealgorithms.divideandconquer.ClosestPair runtime: 101 (seconds)
+total time: 44094
+
+Begin generate tests for com.thealgorithms.divideandconquer.BinaryExponentiation, start time: 1667090497
+com.thealgorithms.divideandconquer.BinaryExponentiation end time: 1667090606
+com.thealgorithms.divideandconquer.BinaryExponentiation runtime: 109 (seconds)
+total time: 44203
+
+Begin generate tests for com.thealgorithms.divideandconquer.SkylineAlgorithm, start time: 1667090606
+com.thealgorithms.divideandconquer.SkylineAlgorithm end time: 1667090717
+com.thealgorithms.divideandconquer.SkylineAlgorithm runtime: 111 (seconds)
+total time: 44314
+
+Begin generate tests for com.thealgorithms.maths.MaxValue, start time: 1667090718
+com.thealgorithms.maths.MaxValue end time: 1667090823
+com.thealgorithms.maths.MaxValue runtime: 105 (seconds)
+total time: 44419
+
+Begin generate tests for com.thealgorithms.maths.PollardRho, start time: 1667090823
+com.thealgorithms.maths.PollardRho end time: 1667090925
+com.thealgorithms.maths.PollardRho runtime: 102 (seconds)
+total time: 44521
+
+Begin generate tests for com.thealgorithms.maths.LinearDiophantineEquationsSolver, start time: 1667090925
+com.thealgorithms.maths.LinearDiophantineEquationsSolver end time: 1667091061
+com.thealgorithms.maths.LinearDiophantineEquationsSolver runtime: 136 (seconds)
+total time: 44657
+
+Begin generate tests for com.thealgorithms.maths.PowRecursion, start time: 1667091061
+com.thealgorithms.maths.PowRecursion end time: 1667091162
+com.thealgorithms.maths.PowRecursion runtime: 101 (seconds)
+total time: 44758
+
+Begin generate tests for com.thealgorithms.maths.Factorial, start time: 1667091162
+com.thealgorithms.maths.Factorial end time: 1667091262
+com.thealgorithms.maths.Factorial runtime: 100 (seconds)
+total time: 44858
+
+Begin generate tests for com.thealgorithms.maths.GCD, start time: 1667091262
+com.thealgorithms.maths.GCD end time: 1667091384
+com.thealgorithms.maths.GCD runtime: 122 (seconds)
+total time: 44980
+
+Begin generate tests for com.thealgorithms.maths.FindMin, start time: 1667091384
+com.thealgorithms.maths.FindMin end time: 1667091506
+com.thealgorithms.maths.FindMin runtime: 122 (seconds)
+total time: 45102
+
+Begin generate tests for com.thealgorithms.maths.ADTFraction, start time: 1667091506
+com.thealgorithms.maths.ADTFraction end time: 1667091626
+com.thealgorithms.maths.ADTFraction runtime: 120 (seconds)
+total time: 45222
+
+Begin generate tests for com.thealgorithms.maths.PiNilakantha, start time: 1667091626
+com.thealgorithms.maths.PiNilakantha end time: 1667091727
+com.thealgorithms.maths.PiNilakantha runtime: 101 (seconds)
+total time: 45323
+
+Begin generate tests for com.thealgorithms.maths.NumberOfDigits, start time: 1667091727
+com.thealgorithms.maths.NumberOfDigits end time: 1667091827
+com.thealgorithms.maths.NumberOfDigits runtime: 100 (seconds)
+total time: 45423
+
+Begin generate tests for com.thealgorithms.maths.FactorialRecursion, start time: 1667091827
+com.thealgorithms.maths.FactorialRecursion end time: 1667091928
+com.thealgorithms.maths.FactorialRecursion runtime: 101 (seconds)
+total time: 45524
+
+Begin generate tests for com.thealgorithms.maths.VampireNumber, start time: 1667091928
+com.thealgorithms.maths.VampireNumber end time: 1667092029
+com.thealgorithms.maths.VampireNumber runtime: 101 (seconds)
+total time: 45625
+
+Begin generate tests for com.thealgorithms.maths.KrishnamurthyNumber, start time: 1667092029
+com.thealgorithms.maths.KrishnamurthyNumber end time: 1667092129
+com.thealgorithms.maths.KrishnamurthyNumber runtime: 100 (seconds)
+total time: 45725
+
+Begin generate tests for com.thealgorithms.maths.LeastCommonMultiple, start time: 1667092129
+com.thealgorithms.maths.LeastCommonMultiple end time: 1667092233
+com.thealgorithms.maths.LeastCommonMultiple runtime: 104 (seconds)
+total time: 45829
+
+Begin generate tests for com.thealgorithms.maths.PrimeCheck, start time: 1667092233
+com.thealgorithms.maths.PrimeCheck end time: 1667092334
+com.thealgorithms.maths.PrimeCheck runtime: 101 (seconds)
+total time: 45930
+
+Begin generate tests for com.thealgorithms.maths.ConvolutionFFT, start time: 1667092334
+com.thealgorithms.maths.ConvolutionFFT end time: 1667092435
+com.thealgorithms.maths.ConvolutionFFT runtime: 101 (seconds)
+total time: 46031
+
+Begin generate tests for com.thealgorithms.maths.FindMinRecursion, start time: 1667092435
+com.thealgorithms.maths.FindMinRecursion end time: 1667092544
+com.thealgorithms.maths.FindMinRecursion runtime: 109 (seconds)
+total time: 46140
+
+Begin generate tests for com.thealgorithms.maths.AliquotSum, start time: 1667092544
+com.thealgorithms.maths.AliquotSum end time: 1667092645
+com.thealgorithms.maths.AliquotSum runtime: 101 (seconds)
+total time: 46241
+
+Begin generate tests for com.thealgorithms.maths.AbsoluteMax, start time: 1667092645
+com.thealgorithms.maths.AbsoluteMax end time: 1667092767
+com.thealgorithms.maths.AbsoluteMax runtime: 122 (seconds)
+total time: 46363
+
+Begin generate tests for com.thealgorithms.maths.JugglerSequence, start time: 1667092767
+com.thealgorithms.maths.JugglerSequence end time: 1667092870
+com.thealgorithms.maths.JugglerSequence runtime: 103 (seconds)
+total time: 46466
+
+Begin generate tests for com.thealgorithms.maths.SumWithoutArithmeticOperators, start time: 1667092870
+com.thealgorithms.maths.SumWithoutArithmeticOperators end time: 1667092980
+com.thealgorithms.maths.SumWithoutArithmeticOperators runtime: 110 (seconds)
+total time: 46576
+
+Begin generate tests for com.thealgorithms.maths.SquareRootWithBabylonianMethod, start time: 1667092980
+com.thealgorithms.maths.SquareRootWithBabylonianMethod end time: 1667093081
+com.thealgorithms.maths.SquareRootWithBabylonianMethod runtime: 101 (seconds)
+total time: 46677
+
+Begin generate tests for com.thealgorithms.maths.DeterminantOfMatrix, start time: 1667093081
+com.thealgorithms.maths.DeterminantOfMatrix end time: 1667093181
+com.thealgorithms.maths.DeterminantOfMatrix runtime: 100 (seconds)
+total time: 46777
+
+Begin generate tests for com.thealgorithms.maths.FFT, start time: 1667093181
+com.thealgorithms.maths.FFT end time: 1667093282
+com.thealgorithms.maths.FFT runtime: 101 (seconds)
+total time: 46878
+
+Begin generate tests for com.thealgorithms.maths.PrimeFactorization, start time: 1667093282
+com.thealgorithms.maths.PrimeFactorization end time: 1667093383
+com.thealgorithms.maths.PrimeFactorization runtime: 101 (seconds)
+total time: 46979
+
+Begin generate tests for com.thealgorithms.maths.PalindromeNumber, start time: 1667093383
+com.thealgorithms.maths.PalindromeNumber end time: 1667093482
+com.thealgorithms.maths.PalindromeNumber runtime: 99 (seconds)
+total time: 47078
+
+Begin generate tests for com.thealgorithms.maths.Mode, start time: 1667093482
+com.thealgorithms.maths.Mode end time: 1667093598
+com.thealgorithms.maths.Mode runtime: 116 (seconds)
+total time: 47194
+
+Begin generate tests for com.thealgorithms.maths.KaprekarNumbers, start time: 1667093598
+com.thealgorithms.maths.KaprekarNumbers end time: 1667093699
+com.thealgorithms.maths.KaprekarNumbers runtime: 101 (seconds)
+total time: 47295
+
+Begin generate tests for com.thealgorithms.maths.SimpsonIntegration, start time: 1667093699
+com.thealgorithms.maths.SimpsonIntegration end time: 1667093809
+com.thealgorithms.maths.SimpsonIntegration runtime: 110 (seconds)
+total time: 47405
+
+Begin generate tests for com.thealgorithms.maths.AbsoluteValue, start time: 1667093809
+com.thealgorithms.maths.AbsoluteValue end time: 1667093909
+com.thealgorithms.maths.AbsoluteValue runtime: 100 (seconds)
+total time: 47505
+
+Begin generate tests for com.thealgorithms.maths.PythagoreanTriple, start time: 1667093909
+com.thealgorithms.maths.PythagoreanTriple end time: 1667094014
+com.thealgorithms.maths.PythagoreanTriple runtime: 105 (seconds)
+total time: 47610
+
+Begin generate tests for com.thealgorithms.maths.CircularConvolutionFFT, start time: 1667094014
+com.thealgorithms.maths.CircularConvolutionFFT end time: 1667094115
+com.thealgorithms.maths.CircularConvolutionFFT runtime: 101 (seconds)
+total time: 47711
+
+Begin generate tests for com.thealgorithms.maths.LeonardoNumber, start time: 1667094115
+com.thealgorithms.maths.LeonardoNumber end time: 1667094326
+com.thealgorithms.maths.LeonardoNumber runtime: 211 (seconds)
+total time: 47922
+
+Begin generate tests for com.thealgorithms.maths.BinomialCoefficient, start time: 1667094326
+com.thealgorithms.maths.BinomialCoefficient end time: 1667094756
+com.thealgorithms.maths.BinomialCoefficient runtime: 430 (seconds)
+total time: 48352
+
+Begin generate tests for com.thealgorithms.maths.PowerOfTwoOrNot, start time: 1667094756
+com.thealgorithms.maths.PowerOfTwoOrNot end time: 1667094856
+com.thealgorithms.maths.PowerOfTwoOrNot runtime: 100 (seconds)
+total time: 48452
+
+Begin generate tests for com.thealgorithms.maths.FindKthNumber, start time: 1667094856
+com.thealgorithms.maths.FindKthNumber end time: 1667094957
+com.thealgorithms.maths.FindKthNumber runtime: 101 (seconds)
+total time: 48553
+
+Begin generate tests for com.thealgorithms.maths.SumOfArithmeticSeries, start time: 1667094957
+com.thealgorithms.maths.SumOfArithmeticSeries end time: 1667095057
+com.thealgorithms.maths.SumOfArithmeticSeries runtime: 100 (seconds)
+total time: 48653
+
+Begin generate tests for com.thealgorithms.maths.StandardDeviation, start time: 1667095057
+com.thealgorithms.maths.StandardDeviation end time: 1667095178
+com.thealgorithms.maths.StandardDeviation runtime: 121 (seconds)
+total time: 48774
+
+Begin generate tests for com.thealgorithms.maths.AbsoluteMin, start time: 1667095178
+com.thealgorithms.maths.AbsoluteMin end time: 1667095295
+com.thealgorithms.maths.AbsoluteMin runtime: 117 (seconds)
+total time: 48891
+
+Begin generate tests for com.thealgorithms.maths.Convolution, start time: 1667095295
+com.thealgorithms.maths.Convolution end time: 1667095450
+com.thealgorithms.maths.Convolution runtime: 155 (seconds)
+total time: 49046
+
+Begin generate tests for com.thealgorithms.maths.MobiusFunction, start time: 1667095450
+com.thealgorithms.maths.MobiusFunction end time: 1667095551
+com.thealgorithms.maths.MobiusFunction runtime: 101 (seconds)
+total time: 49147
+
+Begin generate tests for com.thealgorithms.maths.MinValue, start time: 1667095551
+com.thealgorithms.maths.MinValue end time: 1667095652
+com.thealgorithms.maths.MinValue runtime: 101 (seconds)
+total time: 49248
+
+Begin generate tests for com.thealgorithms.maths.LiouvilleLambdaFunction, start time: 1667095652
+com.thealgorithms.maths.LiouvilleLambdaFunction end time: 1667095752
+com.thealgorithms.maths.LiouvilleLambdaFunction runtime: 100 (seconds)
+total time: 49348
+
+Begin generate tests for com.thealgorithms.maths.GCDRecursion, start time: 1667095752
+com.thealgorithms.maths.GCDRecursion end time: 1667095853
+com.thealgorithms.maths.GCDRecursion runtime: 101 (seconds)
+total time: 49449
+
+Begin generate tests for com.thealgorithms.maths.DudeneyNumber, start time: 1667095853
+com.thealgorithms.maths.DudeneyNumber end time: 1667095954
+com.thealgorithms.maths.DudeneyNumber runtime: 101 (seconds)
+total time: 49550
+
+Begin generate tests for com.thealgorithms.maths.GenericRoot, start time: 1667095954
+com.thealgorithms.maths.GenericRoot end time: 1667096055
+com.thealgorithms.maths.GenericRoot runtime: 101 (seconds)
+total time: 49651
+
+Begin generate tests for com.thealgorithms.maths.FastInverseSqrt, start time: 1667096055
+com.thealgorithms.maths.FastInverseSqrt end time: 1667096155
+com.thealgorithms.maths.FastInverseSqrt runtime: 100 (seconds)
+total time: 49751
+
+Begin generate tests for com.thealgorithms.maths.FindMaxRecursion, start time: 1667096155
+com.thealgorithms.maths.FindMaxRecursion end time: 1667096265
+com.thealgorithms.maths.FindMaxRecursion runtime: 110 (seconds)
+total time: 49861
+
+Begin generate tests for com.thealgorithms.maths.DigitalRoot, start time: 1667096265
+com.thealgorithms.maths.DigitalRoot end time: 1667096357
+com.thealgorithms.maths.DigitalRoot runtime: 92 (seconds)
+total time: 49953
+
+Begin generate tests for com.thealgorithms.maths.AutomorphicNumber, start time: 1667096357
+com.thealgorithms.maths.AutomorphicNumber end time: 1667096458
+com.thealgorithms.maths.AutomorphicNumber runtime: 101 (seconds)
+total time: 50054
+
+Begin generate tests for com.thealgorithms.maths.HarshadNumber, start time: 1667096458
+com.thealgorithms.maths.HarshadNumber end time: 1667096558
+com.thealgorithms.maths.HarshadNumber runtime: 100 (seconds)
+total time: 50154
+
+Begin generate tests for com.thealgorithms.maths.PerfectCube, start time: 1667096558
+com.thealgorithms.maths.PerfectCube end time: 1667096660
+com.thealgorithms.maths.PerfectCube runtime: 102 (seconds)
+total time: 50256
+
+Begin generate tests for com.thealgorithms.maths.TwinPrime, start time: 1667096660
+com.thealgorithms.maths.TwinPrime end time: 1667096761
+com.thealgorithms.maths.TwinPrime runtime: 101 (seconds)
+total time: 50357
+
+Begin generate tests for com.thealgorithms.maths.VectorCrossProduct, start time: 1667096761
+com.thealgorithms.maths.VectorCrossProduct end time: 1667096862
+com.thealgorithms.maths.VectorCrossProduct runtime: 101 (seconds)
+total time: 50458
+
+Begin generate tests for com.thealgorithms.maths.PascalTriangle, start time: 1667096862
+com.thealgorithms.maths.PascalTriangle end time: 1667096963
+com.thealgorithms.maths.PascalTriangle runtime: 101 (seconds)
+total time: 50559
+
+Begin generate tests for com.thealgorithms.maths.SquareRootWithNewtonRaphsonMethod, start time: 1667096963
+com.thealgorithms.maths.SquareRootWithNewtonRaphsonMethod end time: 1667097063
+com.thealgorithms.maths.SquareRootWithNewtonRaphsonMethod runtime: 100 (seconds)
+total time: 50659
+
+Begin generate tests for com.thealgorithms.maths.Median, start time: 1667097063
+com.thealgorithms.maths.Median end time: 1667097184
+com.thealgorithms.maths.Median runtime: 121 (seconds)
+total time: 50780
+
+Begin generate tests for com.thealgorithms.maths.Area, start time: 1667097184
+com.thealgorithms.maths.Area end time: 1667097284
+com.thealgorithms.maths.Area runtime: 100 (seconds)
+total time: 50880
+
+Begin generate tests for com.thealgorithms.maths.NonRepeatingElement, start time: 1667097284
+com.thealgorithms.maths.NonRepeatingElement end time: 1667097385
+com.thealgorithms.maths.NonRepeatingElement runtime: 101 (seconds)
+total time: 50981
+
+Begin generate tests for com.thealgorithms.maths.TrinomialTriangle, start time: 1667097385
+com.thealgorithms.maths.TrinomialTriangle end time: 1667099238
+com.thealgorithms.maths.TrinomialTriangle runtime: 1853 (seconds)
+total time: 52834
+
+Begin generate tests for com.thealgorithms.maths.DistanceFormula, start time: 1667099238
+com.thealgorithms.maths.DistanceFormula end time: 1667099354
+com.thealgorithms.maths.DistanceFormula runtime: 116 (seconds)
+total time: 52950
+
+Begin generate tests for com.thealgorithms.maths.FFTBluestein, start time: 1667099354
+com.thealgorithms.maths.FFTBluestein end time: 1667099455
+com.thealgorithms.maths.FFTBluestein runtime: 101 (seconds)
+total time: 53051
+
+Begin generate tests for com.thealgorithms.maths.LucasSeries, start time: 1667099455
+com.thealgorithms.maths.LucasSeries end time: 1667100768
+com.thealgorithms.maths.LucasSeries runtime: 1313 (seconds)
+total time: 54364
+
+Begin generate tests for com.thealgorithms.maths.PronicNumber, start time: 1667100768
+com.thealgorithms.maths.PronicNumber end time: 1667100869
+com.thealgorithms.maths.PronicNumber runtime: 101 (seconds)
+total time: 54465
+
+Begin generate tests for com.thealgorithms.maths.Combinations, start time: 1667100869
+com.thealgorithms.maths.Combinations end time: 1667100970
+com.thealgorithms.maths.Combinations runtime: 101 (seconds)
+total time: 54566
+
+Begin generate tests for com.thealgorithms.maths.NthUglyNumber, start time: 1667100970
+com.thealgorithms.maths.NthUglyNumber end time: 1667100970
+com.thealgorithms.maths.NthUglyNumber runtime: 0 (seconds)
+total time: 54566
+
+Begin generate tests for com.thealgorithms.maths.Armstrong, start time: 1667100970
+com.thealgorithms.maths.Armstrong end time: 1667101081
+com.thealgorithms.maths.Armstrong runtime: 111 (seconds)
+total time: 54677
+
+Begin generate tests for com.thealgorithms.maths.Average, start time: 1667101081
+com.thealgorithms.maths.Average end time: 1667101199
+com.thealgorithms.maths.Average runtime: 118 (seconds)
+total time: 54795
+
+Begin generate tests for com.thealgorithms.maths.Pow, start time: 1667101199
+com.thealgorithms.maths.Pow end time: 1667101300
+com.thealgorithms.maths.Pow runtime: 101 (seconds)
+total time: 54896
+
+Begin generate tests for com.thealgorithms.maths.ParseInteger, start time: 1667101300
+com.thealgorithms.maths.ParseInteger end time: 1667101400
+com.thealgorithms.maths.ParseInteger runtime: 100 (seconds)
+total time: 54996
+
+Begin generate tests for com.thealgorithms.maths.Gaussian, start time: 1667101400
+com.thealgorithms.maths.Gaussian end time: 1667101520
+com.thealgorithms.maths.Gaussian runtime: 120 (seconds)
+total time: 55116
+
+Begin generate tests for com.thealgorithms.maths.KeithNumber, start time: 1667101520
+com.thealgorithms.maths.KeithNumber end time: 1667101520
+com.thealgorithms.maths.KeithNumber runtime: 0 (seconds)
+total time: 55116
+
+Begin generate tests for com.thealgorithms.maths.HeronsFormula, start time: 1667101520
+com.thealgorithms.maths.HeronsFormula end time: 1667101634
+com.thealgorithms.maths.HeronsFormula runtime: 114 (seconds)
+total time: 55230
+
+Begin generate tests for com.thealgorithms.maths.MatrixUtil, start time: 1667101634
+com.thealgorithms.maths.MatrixUtil end time: 1667101763
+com.thealgorithms.maths.MatrixUtil runtime: 129 (seconds)
+total time: 55359
+
+Begin generate tests for com.thealgorithms.maths.Perimeter, start time: 1667101763
+com.thealgorithms.maths.Perimeter end time: 1667101873
+com.thealgorithms.maths.Perimeter runtime: 110 (seconds)
+total time: 55469
+
+Begin generate tests for com.thealgorithms.maths.JosephusProblem, start time: 1667101873
+com.thealgorithms.maths.JosephusProblem end time: 1667101977
+com.thealgorithms.maths.JosephusProblem runtime: 104 (seconds)
+total time: 55573
+
+Begin generate tests for com.thealgorithms.maths.ReverseNumber, start time: 1667101977
+com.thealgorithms.maths.ReverseNumber end time: 1667102077
+com.thealgorithms.maths.ReverseNumber runtime: 100 (seconds)
+total time: 55673
+
+Begin generate tests for com.thealgorithms.maths.FindMax, start time: 1667102077
+com.thealgorithms.maths.FindMax end time: 1667102196
+com.thealgorithms.maths.FindMax runtime: 119 (seconds)
+total time: 55792
+
+Begin generate tests for com.thealgorithms.maths.Volume, start time: 1667102196
+com.thealgorithms.maths.Volume end time: 1667102297
+com.thealgorithms.maths.Volume runtime: 101 (seconds)
+total time: 55893
+
+Begin generate tests for com.thealgorithms.maths.AmicableNumber, start time: 1667102297
+com.thealgorithms.maths.AmicableNumber end time: 1667102398
+com.thealgorithms.maths.AmicableNumber runtime: 101 (seconds)
+total time: 55994
+
+Begin generate tests for com.thealgorithms.maths.Ceil, start time: 1667102398
+com.thealgorithms.maths.Ceil end time: 1667102498
+com.thealgorithms.maths.Ceil runtime: 100 (seconds)
+total time: 56094
+
+Begin generate tests for com.thealgorithms.maths.RomanNumeralUtil, start time: 1667102498
+com.thealgorithms.maths.RomanNumeralUtil end time: 1667102599
+com.thealgorithms.maths.RomanNumeralUtil runtime: 101 (seconds)
+total time: 56195
+
+Begin generate tests for com.thealgorithms.maths.PerfectNumber, start time: 1667102599
+com.thealgorithms.maths.PerfectNumber end time: 1667102700
+com.thealgorithms.maths.PerfectNumber runtime: 101 (seconds)
+total time: 56296
+
+Begin generate tests for com.thealgorithms.maths.SumOfDigits, start time: 1667102700
+com.thealgorithms.maths.SumOfDigits end time: 1667102801
+com.thealgorithms.maths.SumOfDigits runtime: 101 (seconds)
+total time: 56397
+
+Begin generate tests for com.thealgorithms.maths.StandardScore, start time: 1667102801
+com.thealgorithms.maths.StandardScore end time: 1667102909
+com.thealgorithms.maths.StandardScore runtime: 108 (seconds)
+total time: 56505
+
+Begin generate tests for com.thealgorithms.maths.BinaryPow, start time: 1667102909
+com.thealgorithms.maths.BinaryPow end time: 1667103027
+com.thealgorithms.maths.BinaryPow runtime: 118 (seconds)
+total time: 56623
+
+Begin generate tests for com.thealgorithms.maths.FibonacciNumber, start time: 1667103027
+com.thealgorithms.maths.FibonacciNumber end time: 1667103128
+com.thealgorithms.maths.FibonacciNumber runtime: 101 (seconds)
+total time: 56724
+
+Begin generate tests for com.thealgorithms.maths.PerfectSquare, start time: 1667103128
+com.thealgorithms.maths.PerfectSquare end time: 1667103229
+com.thealgorithms.maths.PerfectSquare runtime: 101 (seconds)
+total time: 56825
+
+Begin generate tests for com.thealgorithms.maths.CollatzConjecture, start time: 1667103229
+com.thealgorithms.maths.CollatzConjecture end time: 1667103339
+com.thealgorithms.maths.CollatzConjecture runtime: 110 (seconds)
+total time: 56935
+
+Begin generate tests for com.thealgorithms.maths.Floor, start time: 1667103339
+com.thealgorithms.maths.Floor end time: 1667103440
+com.thealgorithms.maths.Floor runtime: 101 (seconds)
+total time: 57036
+
+Begin generate tests for com.thealgorithms.maths.MagicSquare, start time: 1667103440
+com.thealgorithms.maths.MagicSquare end time: 1667103541
+com.thealgorithms.maths.MagicSquare runtime: 101 (seconds)
+total time: 57137
+
+Begin generate tests for com.thealgorithms.maths.EulerMethod, start time: 1667103541
+com.thealgorithms.maths.EulerMethod end time: 1667103649
+com.thealgorithms.maths.EulerMethod runtime: 108 (seconds)
+total time: 57245
+
+Begin generate tests for com.thealgorithms.maths.FibonacciJavaStreams, start time: 1667103649
+com.thealgorithms.maths.FibonacciJavaStreams end time: 1667103787
+com.thealgorithms.maths.FibonacciJavaStreams runtime: 138 (seconds)
+total time: 57383
+
+Begin generate tests for com.thealgorithms.audiofilters.IIRFilter, start time: 1667103787
+com.thealgorithms.audiofilters.IIRFilter end time: 1667103900
+com.thealgorithms.audiofilters.IIRFilter runtime: 113 (seconds)
+total time: 57496
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.Fibonacci, start time: 1667103900
+com.thealgorithms.dynamicprogramming.Fibonacci end time: 1667104006
+com.thealgorithms.dynamicprogramming.Fibonacci runtime: 106 (seconds)
+total time: 57602
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.BruteForceKnapsack, start time: 1667104006
+com.thealgorithms.dynamicprogramming.BruteForceKnapsack end time: 1667104107
+com.thealgorithms.dynamicprogramming.BruteForceKnapsack runtime: 101 (seconds)
+total time: 57703
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.RodCutting, start time: 1667104107
+com.thealgorithms.dynamicprogramming.RodCutting end time: 1667104208
+com.thealgorithms.dynamicprogramming.RodCutting runtime: 101 (seconds)
+total time: 57804
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.PalindromicPartitioning, start time: 1667104208
+com.thealgorithms.dynamicprogramming.PalindromicPartitioning end time: 1667104309
+com.thealgorithms.dynamicprogramming.PalindromicPartitioning runtime: 101 (seconds)
+total time: 57905
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.DP, start time: 1667104309
+com.thealgorithms.dynamicprogramming.DP end time: 1667104410
+com.thealgorithms.dynamicprogramming.DP runtime: 101 (seconds)
+total time: 58006
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.LongestCommonSubsequence, start time: 1667104410
+com.thealgorithms.dynamicprogramming.LongestCommonSubsequence end time: 1667104510
+com.thealgorithms.dynamicprogramming.LongestCommonSubsequence runtime: 100 (seconds)
+total time: 58106
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.MemoizationTechniqueKnapsack, start time: 1667104510
+com.thealgorithms.dynamicprogramming.MemoizationTechniqueKnapsack end time: 1667104611
+com.thealgorithms.dynamicprogramming.MemoizationTechniqueKnapsack runtime: 101 (seconds)
+total time: 58207
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.LongestAlternatingSubsequence, start time: 1667104611
+com.thealgorithms.dynamicprogramming.LongestAlternatingSubsequence end time: 1667104712
+com.thealgorithms.dynamicprogramming.LongestAlternatingSubsequence runtime: 101 (seconds)
+total time: 58308
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.MinimumSumPartition, start time: 1667104712
+com.thealgorithms.dynamicprogramming.MinimumSumPartition end time: 1667104826
+com.thealgorithms.dynamicprogramming.MinimumSumPartition runtime: 114 (seconds)
+total time: 58422
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.LongestValidParentheses, start time: 1667104826
+com.thealgorithms.dynamicprogramming.LongestValidParentheses end time: 1667104926
+com.thealgorithms.dynamicprogramming.LongestValidParentheses runtime: 100 (seconds)
+total time: 58522
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.RegexMatching, start time: 1667104926
+com.thealgorithms.dynamicprogramming.RegexMatching end time: 1667105027
+com.thealgorithms.dynamicprogramming.RegexMatching runtime: 101 (seconds)
+total time: 58623
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.Knapsack, start time: 1667105027
+com.thealgorithms.dynamicprogramming.Knapsack end time: 1667105128
+com.thealgorithms.dynamicprogramming.Knapsack runtime: 101 (seconds)
+total time: 58724
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.WineProblem, start time: 1667105128
+com.thealgorithms.dynamicprogramming.WineProblem end time: 1667105260
+com.thealgorithms.dynamicprogramming.WineProblem runtime: 132 (seconds)
+total time: 58856
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.SubsetSum, start time: 1667105260
+com.thealgorithms.dynamicprogramming.SubsetSum end time: 1667105361
+com.thealgorithms.dynamicprogramming.SubsetSum runtime: 101 (seconds)
+total time: 58957
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.MatrixChainMultiplication, start time: 1667105361
+com.thealgorithms.dynamicprogramming.MatrixChainMultiplication end time: 1667105462
+com.thealgorithms.dynamicprogramming.MatrixChainMultiplication runtime: 101 (seconds)
+total time: 59058
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.EditDistance, start time: 1667105462
+com.thealgorithms.dynamicprogramming.EditDistance end time: 1667105582
+com.thealgorithms.dynamicprogramming.EditDistance runtime: 120 (seconds)
+total time: 59178
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.FordFulkerson, start time: 1667105582
+com.thealgorithms.dynamicprogramming.FordFulkerson end time: 1667105683
+com.thealgorithms.dynamicprogramming.FordFulkerson runtime: 101 (seconds)
+total time: 59279
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.MinimumPathSum, start time: 1667105683
+com.thealgorithms.dynamicprogramming.MinimumPathSum end time: 1667105788
+com.thealgorithms.dynamicprogramming.MinimumPathSum runtime: 105 (seconds)
+total time: 59384
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.NewManShanksPrime, start time: 1667105788
+com.thealgorithms.dynamicprogramming.NewManShanksPrime end time: 1667105889
+com.thealgorithms.dynamicprogramming.NewManShanksPrime runtime: 101 (seconds)
+total time: 59485
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.DyanamicProgrammingKnapsack, start time: 1667105889
+com.thealgorithms.dynamicprogramming.DyanamicProgrammingKnapsack end time: 1667105989
+com.thealgorithms.dynamicprogramming.DyanamicProgrammingKnapsack runtime: 100 (seconds)
+total time: 59585
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.UniquePaths, start time: 1667105989
+com.thealgorithms.dynamicprogramming.UniquePaths end time: 1667106106
+com.thealgorithms.dynamicprogramming.UniquePaths runtime: 117 (seconds)
+total time: 59702
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.LongestPalindromicSubsequence, start time: 1667106106
+com.thealgorithms.dynamicprogramming.LongestPalindromicSubsequence end time: 1667106207
+com.thealgorithms.dynamicprogramming.LongestPalindromicSubsequence runtime: 101 (seconds)
+total time: 59803
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.CountFriendsPairing, start time: 1667106207
+com.thealgorithms.dynamicprogramming.CountFriendsPairing end time: 1667106321
+com.thealgorithms.dynamicprogramming.CountFriendsPairing runtime: 114 (seconds)
+total time: 59917
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.CoinChange, start time: 1667106321
+com.thealgorithms.dynamicprogramming.CoinChange end time: 1667106432
+com.thealgorithms.dynamicprogramming.CoinChange runtime: 111 (seconds)
+total time: 60028
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.BoardPath, start time: 1667106432
+com.thealgorithms.dynamicprogramming.BoardPath end time: 1667107292
+com.thealgorithms.dynamicprogramming.BoardPath runtime: 860 (seconds)
+total time: 60888
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.Matrix, start time: 1667107292
+com.thealgorithms.dynamicprogramming.Matrix end time: 1667107292
+com.thealgorithms.dynamicprogramming.Matrix runtime: 0 (seconds)
+total time: 60888
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.MatrixChainRecursiveTopDownMemoisation, start time: 1667107292
+com.thealgorithms.dynamicprogramming.MatrixChainRecursiveTopDownMemoisation end time: 1667107393
+com.thealgorithms.dynamicprogramming.MatrixChainRecursiveTopDownMemoisation runtime: 101 (seconds)
+total time: 60989
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.BoundaryFill, start time: 1667107393
+com.thealgorithms.dynamicprogramming.BoundaryFill end time: 1667107510
+com.thealgorithms.dynamicprogramming.BoundaryFill runtime: 117 (seconds)
+total time: 61106
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.Sum_Of_Subset, start time: 1667107510
+com.thealgorithms.dynamicprogramming.Sum_Of_Subset end time: 1667107629
+com.thealgorithms.dynamicprogramming.Sum_Of_Subset runtime: 119 (seconds)
+total time: 61225
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.KadaneAlgorithm, start time: 1667107629
+com.thealgorithms.dynamicprogramming.KadaneAlgorithm end time: 1667107750
+com.thealgorithms.dynamicprogramming.KadaneAlgorithm runtime: 121 (seconds)
+total time: 61346
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.CatalanNumber, start time: 1667107750
+com.thealgorithms.dynamicprogramming.CatalanNumber end time: 1667107851
+com.thealgorithms.dynamicprogramming.CatalanNumber runtime: 101 (seconds)
+total time: 61447
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.ShortestSuperSequence, start time: 1667107851
+com.thealgorithms.dynamicprogramming.ShortestSuperSequence end time: 1667107851
+com.thealgorithms.dynamicprogramming.ShortestSuperSequence runtime: 0 (seconds)
+total time: 61447
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.LongestIncreasingSubsequence, start time: 1667107851
+com.thealgorithms.dynamicprogramming.LongestIncreasingSubsequence end time: 1667107985
+com.thealgorithms.dynamicprogramming.LongestIncreasingSubsequence runtime: 134 (seconds)
+total time: 61581
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.KnapsackMemoization, start time: 1667107985
+com.thealgorithms.dynamicprogramming.KnapsackMemoization end time: 1667108088
+com.thealgorithms.dynamicprogramming.KnapsackMemoization runtime: 103 (seconds)
+total time: 61684
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.EggDropping, start time: 1667108088
+com.thealgorithms.dynamicprogramming.EggDropping end time: 1667108189
+com.thealgorithms.dynamicprogramming.EggDropping runtime: 101 (seconds)
+total time: 61785
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.LongestPalindromicSubstring, start time: 1667108189
+com.thealgorithms.dynamicprogramming.LongestPalindromicSubstring end time: 1667108290
+com.thealgorithms.dynamicprogramming.LongestPalindromicSubstring runtime: 101 (seconds)
+total time: 61886
+
+Begin generate tests for com.thealgorithms.dynamicprogramming.LevenshteinDistance, start time: 1667108290
+com.thealgorithms.dynamicprogramming.LevenshteinDistance end time: 1667108390
+com.thealgorithms.dynamicprogramming.LevenshteinDistance runtime: 100 (seconds)
+total time: 61986
+
+Begin generate tests for com.thealgorithms.devutils.searches.MatrixSearchAlgorithm, start time: 1667108390
+com.thealgorithms.devutils.searches.MatrixSearchAlgorithm end time: 1667108491
+com.thealgorithms.devutils.searches.MatrixSearchAlgorithm runtime: 101 (seconds)
+total time: 62087
+
+Begin generate tests for com.thealgorithms.devutils.searches.SearchAlgorithm, start time: 1667108491
+com.thealgorithms.devutils.searches.SearchAlgorithm end time: 1667108593
+com.thealgorithms.devutils.searches.SearchAlgorithm runtime: 102 (seconds)
+total time: 62189
+
+Begin generate tests for com.thealgorithms.devutils.nodes.SimpleTreeNode, start time: 1667108593
+com.thealgorithms.devutils.nodes.SimpleTreeNode end time: 1667108721
+com.thealgorithms.devutils.nodes.SimpleTreeNode runtime: 128 (seconds)
+total time: 62317
+
+Begin generate tests for com.thealgorithms.devutils.nodes.LargeTreeNode, start time: 1667108721
+com.thealgorithms.devutils.nodes.LargeTreeNode end time: 1667108831
+com.thealgorithms.devutils.nodes.LargeTreeNode runtime: 110 (seconds)
+total time: 62427
+
+Begin generate tests for com.thealgorithms.devutils.nodes.SimpleNode, start time: 1667108831
+com.thealgorithms.devutils.nodes.SimpleNode end time: 1667108961
+com.thealgorithms.devutils.nodes.SimpleNode runtime: 130 (seconds)
+total time: 62557
+
+Begin generate tests for com.thealgorithms.devutils.nodes.TreeNode, start time: 1667108961
+com.thealgorithms.devutils.nodes.TreeNode end time: 1667109008
+com.thealgorithms.devutils.nodes.TreeNode runtime: 47 (seconds)
+total time: 62604
+
+Begin generate tests for com.thealgorithms.devutils.nodes.Node, start time: 1667109008
+com.thealgorithms.devutils.nodes.Node end time: 1667109080
+com.thealgorithms.devutils.nodes.Node runtime: 72 (seconds)
+total time: 62676
+
+Begin generate tests for com.thealgorithms.devutils.entities.ProcessDetails, start time: 1667109080
+com.thealgorithms.devutils.entities.ProcessDetails end time: 1667109186
+com.thealgorithms.devutils.entities.ProcessDetails runtime: 106 (seconds)
+total time: 62782
+
+Begin generate tests for com.thealgorithms.sorts.BucketSort, start time: 1667109186
+com.thealgorithms.sorts.BucketSort end time: 1667109300
+com.thealgorithms.sorts.BucketSort runtime: 114 (seconds)
+total time: 62896
+
+Begin generate tests for com.thealgorithms.sorts.InsertionSort, start time: 1667109300
+com.thealgorithms.sorts.InsertionSort end time: 1667109300
+com.thealgorithms.sorts.InsertionSort runtime: 0 (seconds)
+total time: 62896
+
+Begin generate tests for com.thealgorithms.sorts.SortUtils, start time: 1667109300
+com.thealgorithms.sorts.SortUtils end time: 1667109300
+com.thealgorithms.sorts.SortUtils runtime: 0 (seconds)
+total time: 62896
+
+Begin generate tests for com.thealgorithms.sorts.BubbleSort, start time: 1667109300
+com.thealgorithms.sorts.BubbleSort end time: 1667109301
+com.thealgorithms.sorts.BubbleSort runtime: 1 (seconds)
+total time: 62897
+
+Begin generate tests for com.thealgorithms.sorts.CocktailShakerSort, start time: 1667109301
+com.thealgorithms.sorts.CocktailShakerSort end time: 1667109301
+com.thealgorithms.sorts.CocktailShakerSort runtime: 0 (seconds)
+total time: 62897
+
+Begin generate tests for com.thealgorithms.sorts.HeapSort, start time: 1667109301
+com.thealgorithms.sorts.HeapSort end time: 1667109428
+com.thealgorithms.sorts.HeapSort runtime: 127 (seconds)
+total time: 63024
+
+Begin generate tests for com.thealgorithms.sorts.CountingSort, start time: 1667109428
+com.thealgorithms.sorts.CountingSort end time: 1667109428
+com.thealgorithms.sorts.CountingSort runtime: 0 (seconds)
+total time: 63024
+
+Begin generate tests for com.thealgorithms.sorts.OddEvenSort, start time: 1667109428
+com.thealgorithms.sorts.OddEvenSort end time: 1667109541
+com.thealgorithms.sorts.OddEvenSort runtime: 113 (seconds)
+total time: 63137
+
+Begin generate tests for com.thealgorithms.sorts.RadixSort, start time: 1667109541
+com.thealgorithms.sorts.RadixSort end time: 1667109542
+com.thealgorithms.sorts.RadixSort runtime: 1 (seconds)
+total time: 63138
+
+Begin generate tests for com.thealgorithms.sorts.CircleSort, start time: 1667109542
+com.thealgorithms.sorts.CircleSort end time: 1667109670
+com.thealgorithms.sorts.CircleSort runtime: 128 (seconds)
+total time: 63266
+
+Begin generate tests for com.thealgorithms.sorts.StoogeSort, start time: 1667109670
+com.thealgorithms.sorts.StoogeSort end time: 1667109806
+com.thealgorithms.sorts.StoogeSort runtime: 136 (seconds)
+total time: 63402
+
+Begin generate tests for com.thealgorithms.sorts.PigeonholeSort, start time: 1667109806
+com.thealgorithms.sorts.PigeonholeSort end time: 1667109907
+com.thealgorithms.sorts.PigeonholeSort runtime: 101 (seconds)
+total time: 63503
+
+Begin generate tests for com.thealgorithms.sorts.TimSort, start time: 1667109907
+com.thealgorithms.sorts.TimSort end time: 1667109908
+com.thealgorithms.sorts.TimSort runtime: 1 (seconds)
+total time: 63504
+
+Begin generate tests for com.thealgorithms.sorts.WiggleSort, start time: 1667109908
+com.thealgorithms.sorts.WiggleSort end time: 1667110033
+com.thealgorithms.sorts.WiggleSort runtime: 125 (seconds)
+total time: 63629
+
+Begin generate tests for com.thealgorithms.sorts.SortAlgorithm, start time: 1667110033
+com.thealgorithms.sorts.SortAlgorithm end time: 1667110133
+com.thealgorithms.sorts.SortAlgorithm runtime: 100 (seconds)
+total time: 63729
+
+Begin generate tests for com.thealgorithms.sorts.DNFSort, start time: 1667110133
+com.thealgorithms.sorts.DNFSort end time: 1667110233
+com.thealgorithms.sorts.DNFSort runtime: 100 (seconds)
+total time: 63829
+
+Begin generate tests for com.thealgorithms.sorts.BitonicSort, start time: 1667110233
+com.thealgorithms.sorts.BitonicSort end time: 1667110334
+com.thealgorithms.sorts.BitonicSort runtime: 101 (seconds)
+total time: 63930
+
+Begin generate tests for com.thealgorithms.sorts.SlowSort, start time: 1667110334
+com.thealgorithms.sorts.SlowSort end time: 1667110484
+com.thealgorithms.sorts.SlowSort runtime: 150 (seconds)
+total time: 64080
+
+Begin generate tests for com.thealgorithms.sorts.CycleSort, start time: 1667110484
+com.thealgorithms.sorts.CycleSort end time: 1667110484
+com.thealgorithms.sorts.CycleSort runtime: 0 (seconds)
+total time: 64080
+
+Begin generate tests for com.thealgorithms.sorts.GnomeSort, start time: 1667110484
+com.thealgorithms.sorts.GnomeSort end time: 1667110615
+com.thealgorithms.sorts.GnomeSort runtime: 131 (seconds)
+total time: 64211
+
+Begin generate tests for com.thealgorithms.sorts.SwapSort, start time: 1667110615
+com.thealgorithms.sorts.SwapSort end time: 1667112797
+com.thealgorithms.sorts.SwapSort runtime: 2182 (seconds)
+total time: 66393
+
+Begin generate tests for com.thealgorithms.sorts.BogoSort, start time: 1667112797
+com.thealgorithms.sorts.BogoSort end time: 1667112925
+com.thealgorithms.sorts.BogoSort runtime: 128 (seconds)
+total time: 66521
+
+Begin generate tests for com.thealgorithms.sorts.PancakeSort, start time: 1667112925
+com.thealgorithms.sorts.PancakeSort end time: 1667113053
+com.thealgorithms.sorts.PancakeSort runtime: 128 (seconds)
+total time: 66649
+
+Begin generate tests for com.thealgorithms.sorts.DutchNationalFlagSort, start time: 1667113053
+com.thealgorithms.sorts.DutchNationalFlagSort end time: 1667113183
+com.thealgorithms.sorts.DutchNationalFlagSort runtime: 130 (seconds)
+total time: 66779
+
+Begin generate tests for com.thealgorithms.sorts.StrandSort, start time: 1667113183
+com.thealgorithms.sorts.StrandSort end time: 1667113275
+com.thealgorithms.sorts.StrandSort runtime: 92 (seconds)
+total time: 66871
+
+Begin generate tests for com.thealgorithms.sorts.Task2, start time: 1667113275
+com.thealgorithms.sorts.Task2 end time: 1667113276
+com.thealgorithms.sorts.Task2 runtime: 1 (seconds)
+total time: 66872
+
+Begin generate tests for com.thealgorithms.sorts.Task, start time: 1667113276
+com.thealgorithms.sorts.Task end time: 1667113276
+com.thealgorithms.sorts.Task runtime: 0 (seconds)
+total time: 66872
+
+Begin generate tests for com.thealgorithms.sorts.BubbleSortRecursion, start time: 1667113276
+com.thealgorithms.sorts.BubbleSortRecursion end time: 1667113402
+com.thealgorithms.sorts.BubbleSortRecursion runtime: 126 (seconds)
+total time: 66998
+
+Begin generate tests for com.thealgorithms.sorts.MergeSortRecursive, start time: 1667113402
+com.thealgorithms.sorts.MergeSortRecursive end time: 1667113513
+com.thealgorithms.sorts.MergeSortRecursive runtime: 111 (seconds)
+total time: 67109
+
+Begin generate tests for com.thealgorithms.sorts.App, start time: 1667113513
+com.thealgorithms.sorts.App end time: 1667113513
+com.thealgorithms.sorts.App runtime: 0 (seconds)
+total time: 67109
+
+Begin generate tests for com.thealgorithms.sorts.SelectionSort, start time: 1667113513
+com.thealgorithms.sorts.SelectionSort end time: 1667113650
+com.thealgorithms.sorts.SelectionSort runtime: 137 (seconds)
+total time: 67246
+
+Begin generate tests for com.thealgorithms.sorts.TreeSort, start time: 1667113650
+com.thealgorithms.sorts.TreeSort end time: 1667113774
+com.thealgorithms.sorts.TreeSort runtime: 124 (seconds)
+total time: 67370
+
+Begin generate tests for com.thealgorithms.sorts.SimpleSort, start time: 1667113774
+com.thealgorithms.sorts.SimpleSort end time: 1667113902
+com.thealgorithms.sorts.SimpleSort runtime: 128 (seconds)
+total time: 67498
+
+Begin generate tests for com.thealgorithms.sorts.CombSort, start time: 1667113902
+com.thealgorithms.sorts.CombSort end time: 1667113903
+com.thealgorithms.sorts.CombSort runtime: 1 (seconds)
+total time: 67499
+
+Begin generate tests for com.thealgorithms.sorts.ShellSort, start time: 1667113903
+com.thealgorithms.sorts.ShellSort end time: 1667114031
+com.thealgorithms.sorts.ShellSort runtime: 128 (seconds)
+total time: 67627
+
+Begin generate tests for com.thealgorithms.sorts.Task1, start time: 1667114031
+com.thealgorithms.sorts.Task1 end time: 1667114031
+com.thealgorithms.sorts.Task1 runtime: 0 (seconds)
+total time: 67627
+
+Begin generate tests for com.thealgorithms.sorts.QuickSort, start time: 1667114031
+com.thealgorithms.sorts.QuickSort end time: 1667114032
+com.thealgorithms.sorts.QuickSort runtime: 1 (seconds)
+total time: 67628
+
+Begin generate tests for com.thealgorithms.sorts.Node, start time: 1667114032
+com.thealgorithms.sorts.Node end time: 1667114032
+com.thealgorithms.sorts.Node runtime: 0 (seconds)
+total time: 67628
+
+Begin generate tests for com.thealgorithms.sorts.MergeSortNoExtraSpace, start time: 1667114032
+com.thealgorithms.sorts.MergeSortNoExtraSpace end time: 1667114143
+com.thealgorithms.sorts.MergeSortNoExtraSpace runtime: 111 (seconds)
+total time: 67739
+
+Begin generate tests for com.thealgorithms.sorts.LinkList_Sort, start time: 1667114143
+com.thealgorithms.sorts.LinkList_Sort end time: 1667114256
+com.thealgorithms.sorts.LinkList_Sort runtime: 113 (seconds)
+total time: 67852
+
+Begin generate tests for com.thealgorithms.sorts.TopologicalSort, start time: 1667114256
+com.thealgorithms.sorts.TopologicalSort end time: 1667114358
+com.thealgorithms.sorts.TopologicalSort runtime: 102 (seconds)
+total time: 67954
+
+Begin generate tests for com.thealgorithms.sorts.MergeSort, start time: 1667114358
+com.thealgorithms.sorts.MergeSort end time: 1667114360
+com.thealgorithms.sorts.MergeSort runtime: 2 (seconds)
+total time: 67956
+
+Begin generate tests for com.thealgorithms.sorts.BinaryInsertionSort, start time: 1667114360
+com.thealgorithms.sorts.BinaryInsertionSort end time: 1667114485
+com.thealgorithms.sorts.BinaryInsertionSort runtime: 125 (seconds)
+total time: 68081
+
